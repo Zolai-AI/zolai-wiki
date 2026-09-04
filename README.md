@@ -16,3 +16,16 @@ curriculum linkage, dictionary reconciliation.
 ## Note
 Wiki data may be bundled into datasets via `zolai-datasets`. Heavy/generated files are
 mirrored, not duplicated here.
+
+---
+
+## Part of the Zolai-AI org
+
+This repo is a component of the **Zolai-AI** organization — see the
+[org profile](https://github.com/Zolai-AI) for the full ecosystem and
+[`.github/CONTRIBUTING.md`](https://github.com/Zolai-AI/.github/blob/main/community/CONTRIBUTING.md) to contribute.
+
+---
+
+*Zolai AI · preserving Tedim Zolai (ZVS 2018) with a RAG-first bilingual toolkit for the Zomi people.*
+
