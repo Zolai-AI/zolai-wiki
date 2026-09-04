@@ -246,3 +246,13 @@
 - [Learning Summary (2026-04-22)](LEARNING_SUMMARY_2026_04_22.md) — prior learning-session recap
 
 **Last Updated: 2026-09-03**
+
+---
+
+## Part of the Zolai-AI org
+
+This repo is a component of the **[Zolai-AI](https://github.com/Zolai-AI)** organization — see the
+[org profile](https://github.com/Zolai-AI) for the full ecosystem and
+[`.github/CONTRIBUTING.md`](https://github.com/Zolai-AI/.github/blob/main/community/CONTRIBUTING.md) to contribute.
+
+`zolai-core` · `zolai-web` · `zolai-tauri` · `zolai-datasets` · `zolai-training` · `zolai-ai` (monorepo)
