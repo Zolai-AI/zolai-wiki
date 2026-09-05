@@ -37430,7 +37430,6 @@ patauhna | fright | fright | C2 |
 | laver | khut leh khe sil theihna kuang, tui koihna kuang khut leh khe sil theihna kuang | khut leh khe sil theihna kuang / tui koihna kuang khut leh khe sil theihna kuang / laver | C2 |
 | lavish | (a) zangziahziah, cilbawllo in zangkhia, ciltatlo | (a) zangziahziah, cilbawllo in zangkhia, ciltatlo | C2 |
 | lavui | a theme composed in verses of songs | a theme composed in verses of songs | C2 |
-| law | (n) dan, zuih dinga kibawl ngeina, upadi | (n) dan, zuih dinga kibawl ngeina, upadi | C2 |
 | law-abiding | (a) upadi tawh kituak | (a) upadi tawh kituak | C2 |
 | law-maker | n. thukhaam bawltu; kumpi thukhaam bawlte., law-maker | n. thukhaam bawltu; kumpi thukhaam bawlte. / law-maker / thukhaam bawltu kumpi thukhaam bawlte | C2 |
 | lawabiding | lawabiding, thukhun bangin azui | lawabiding / thukhun bangin azui | C2 |
@@ -42583,7 +42582,6 @@ ngimna | contemplation | contemplation | C2 |
 | ngamloin | body | body / moses / durst | C2 |
 | ngamnate | men | men / god / there | C2 |
 | ngamzaw | count | count / things / loss | C2 |
-| ngan | short, small and very poisonous snake, Pots in pairs for steam-cooking | short, small and very poisonous snake / Pots in pairs for steam-cooking | C2 |
 | ngapeek | flatflish | flatflish | C2 |
 | ngapik | pickled fish | pickled fish | C2 |
 | ngaptansak | waters | waters / through / measured | C2 |
@@ -56772,7 +56770,6 @@ siatna | misdoing | misdoing | C2 |
 | thy | (pro) nangaa, nangma aa, na (khat bek tawh kisai a la leh Pasian lam a kizang) | (pro) nangaa, nangma aa, na (khat bek tawh kisai a la leh Pasian lam a kizang) | C2 |
 | thyroid | (n) hngawng sungih um mi taksa thantertu ti uum. | (n) hngawng sungih um mi taksa thantertu ti uum. | C2 |
 | thyself | (n) nangmah leh nangmah | (n) nangmah leh nangmah | C2 |
-| ti | la aw a saginna aw, ti | la aw a saginna aw / ti | C2 |
 | tiara | (n): Pope kah lumuek. | (n): Pope kah lumuek. | C2 |
 | tiberius | being | being / tetrarch / fifteenth | C2 |
 | tibet | (n) tibet gam. | (n) tibet gam. | C2 |
