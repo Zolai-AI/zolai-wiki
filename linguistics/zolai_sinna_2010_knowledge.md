@@ -96,8 +96,9 @@ Zolai Sinna, ZAUS 2010. Full text: resources/zolai_sinna_2010.md
 
 ## Pattern: Song Word Inversions (Lakam)
 **Pattern:** Poetic Zolai inverts syllable order or adds prefix for song register.
-- sakhi → khisa (fish → khisa in song)
+- sakhi → khisa (fish → khisa in song) sakhi is deer (recheck on bible usage and others usage, fish is ngasa/sanga)
 - vakhu → khuva
-- nu → tun (mother → tun in song)
+- nu → tunnu (mother → tunnu in song)
+- pa → zuapa (father → zuapa in song)
 - inn → saumang (house → saumang in song)
 **Use:** Only in formal song/poetry (Zola), not in everyday speech.
