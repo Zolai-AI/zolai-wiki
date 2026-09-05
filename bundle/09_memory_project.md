@@ -310,7 +310,7 @@ Target: < 2.0
 - ZVS corrections map: pasian→pasian, sanggin→sanginn, gam→gam, tua/tua→tua
 
 ### Wiki/Agents Updated
-- `wiki/negation/negation_guide.md` — complete kei/lo/kei-lo reference
+- `grammar/negation_guide.md` — complete kei/lo/kei-lo reference
 - `agents/zolai-bible-dictionary-builder/agent.json` — new agent
 - `agents/zolai-ggammar-learner/agent.json` — 3 new completed topics
 
@@ -395,16 +395,16 @@ Welcome to the **Zolai AI Second Brain**. This wiki is the central knowledge rep
 ---
 
 ## 🧠 Core Architecture
-- [**Chat System**](architecture/chat_system.md) — Operational logic for the AI tutor
+- [**Chat System**](concepts/chat_system.md) — Operational logic for the AI tutor
 - [**Domain Routing**](concepts/domain_routing_architecture.md) — How the AI classifies and handles request types
 - [**Socratic Philosophy**](concepts/socratic_philosophy.md) — The pedagogy behind the "Sangsia" (Teacher) persona
 - [**Psycholinguistic Architecture**](concepts/psycholinguistic_architecture.md) — Lung-Kha (Heart-Spirit) framework
-- [**Dictionary Rebuild V2**](dictionary_rebuild_v2/README.md) ⭐ — Multi-agent system for building bidirectional dictionary
+- [**Dictionary Rebuild V2**](archive/dictionary_rebuild_v2/README.md) ⭐ — Multi-agent system for building bidirectional dictionary
 
 ## 📖 Dictionary Rebuild V2
-- [**System Overview**](dictionary_rebuild_v2/README.md) — Architecture, 10-step pipeline, 10 agents
-- [**Agent Specifications**](dictionary_rebuild_v2/agents.md) — Individual agent roles and responsibilities
-- [**Pipeline Guide**](dictionary_rebuild_v2/pipeline.md) — Step-by-step execution, heartbeat output, metrics
+- [**System Overview**](archive/dictionary_rebuild_v2/README.md) — Architecture, 10-step pipeline, 10 agents
+- [**Agent Specifications**](archive/dictionary_rebuild_v2/agents.md) — Individual agent roles and responsibilities
+- [**Pipeline Guide**](archive/dictionary_rebuild_v2/pipeline.md) — Step-by-step execution, heartbeat output, metrics
 
 ## 📖 Linguistic Standards (ZVS)
 - [**Phonology & Orthography**](grammar/phonology.md) — Roman alphabet mapping, tone system, phonetic restrictions
@@ -440,15 +440,15 @@ Welcome to the **Zolai AI Second Brain**. This wiki is the central knowledge rep
 
 ## 🌍 Culture, History & Glossary
 - [**Zomi Comprehensive**](culture/zomi_comprehensive.md) ⭐ — Full reference: people, history, culture, language (2026)
-- [**Zo Compound Words**](glossary/zo_compound_words.md) ⭐ — Zolai/Zola/Zomi/Zogam/Zongeina/Zo-an etc.
+- [**Zo Compound Words**](vocabulary/zo_compound_words.md) ⭐ — Zolai/Zola/Zomi/Zogam/Zongeina/Zo-an etc.
 - [**Tedim Pau Language Reference**](culture/tedim_pau_language_reference.md) — Comprehensive language reference
 - [**Traditional Customs**](culture/traditional_customs.md) — Khuado, Nunnop, Tengmaw, Hnat
 - [**Historical Origins**](culture/historical_origins.md) — Ciimnuai, Cope, Pau Cin Hau, language timeline
 - [**Future of Zolai**](culture/future_of_zolai.md) ⭐ — Vision for Digital Resurrection & AI Sovereignty
 - [**Zomi Culture & Values**](culture/zomi_culture_and_values.md) — Itna, Galhiam, Beh, Upate
-- [**Historical Milestones**](history/historical_milestones.md) — Key dates timeline
-- [**Bible Translation History**](history/zolai_bible_history.md) — 1932 → TDB77 → ZVS 2018
-- [**Sources & Dataset**](history/sources.md) — 2M+ entries, 23 sources documented
+- [**Historical Milestones**](culture/historical_milestones.md) — Key dates timeline
+- [**Bible Translation History**](culture/zolai_bible_history.md) — 1932 → TDB77 → ZVS 2018
+- [**Sources & Dataset**](culture/sources.md) — 2M+ entries, 23 sources documented
 - [**Biblical Sentence Patterns**](biblical/) — Book-by-book grammar survey
 
 ## 🏫 Curriculum & Pedagogy
@@ -461,7 +461,7 @@ Welcome to the **Zolai AI Second Brain**. This wiki is the central knowledge rep
 - [**C2 Mastery**](curriculum/c2_mastery.md) — Poetic parallelism, doxology
 - [**Tutor Logic**](training/pedagogy_tutor_logic.md) — Adaptive difficulty, Gentehna parables
 - [**Dataset Specs**](training/dataset_specs.md) — Training data requirements
-- [**Common Mistakes**](mistakes/common_mistakes.md) ⭐ — Catalog of AI/learner errors to avoid
+- [**Common Mistakes**](grammar/common_mistakes.md) ⭐ — Catalog of AI/learner errors to avoid
 
 ## 📊 Literature & Style
 - [**Folklore & Idioms**](literature/folklore_idioms.md) — Traditional stories and expressions
@@ -472,9 +472,9 @@ Welcome to the **Zolai AI Second Brain**. This wiki is the central knowledge rep
 - [**Zomidaily Style**](literature/zomidaily_style_v2.md) — News/media register
 
 ## 🚀 Project Planning
-- [**Competitive Features Roadmap**](features/competitive_features_roadmap.md) ⭐ — What to build next
+- [**Competitive Features Roadmap**](docs/competitive_features_roadmap.md) ⭐ — What to build next
 - [**Curriculum Implementation TODO**](planning/curriculum_implementation_todo.md)
-- [**Books Summary**](books_summary.md) — Corpus book inventory
+- [**Books Summary**](biblical/books_summary.md) — Corpus book inventory
 
 ---
 
@@ -727,7 +727,7 @@ Acting as a tutor cannot rely on memory alone; the chat system must treat every 
 ### 1.2 AI Tutor / Chat UI
 - API live: `POST /api/zolai/chat` proxies to fine-tuned LLM
 - Build chat interface in `features/zolai/components/`
-- Socratic tutor logic defined in `wiki/architecture/chat_system.md`
+- Socratic tutor logic defined in `wiki/concepts/chat_system.md`
 
 ### 1.3 Bible Verse Browser UI
 - Backend ready: TDB77 + TBR17 + KJV aligned

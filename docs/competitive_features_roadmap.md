@@ -27,7 +27,7 @@
 ### 1.2 AI Tutor / Chat UI
 - API live: `POST /api/zolai/chat` proxies to fine-tuned LLM
 - Build chat interface in `features/zolai/components/`
-- Socratic tutor logic defined in `wiki/architecture/chat_system.md`
+- Socratic tutor logic defined in `wiki/concepts/chat_system.md`
 
 ### 1.3 Bible Verse Browser UI
 - Backend ready: TDB77 + TBR17 + KJV aligned

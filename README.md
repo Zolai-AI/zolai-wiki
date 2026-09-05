@@ -1,14 +1,14 @@
 # Zolai AI Wiki — Second Brain Knowledge Base
 
-> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
-> The central knowledge repository for the **Zolai Second Brain** project — linguistic rules, grammar, vocabulary, culture, curriculum, and training strategy for the Tedim Zolai language.  
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect
+> The central knowledge repository for the **Zolai Second Brain** project — linguistic rules, grammar, vocabulary, culture, curriculum, and training strategy for the Tedim Zolai language.
 > **Author:** Peter Pau Sian Lian ([@peterpausianlian](https://huggingface.co/peterpausianlian))
 
 ---
 
 ## 🧠 Architecture & Concepts
 
-- [Chat System](architecture/chat_system.md) — AI tutor operational logic
+- [Chat System](concepts/chat_system.md) — AI tutor operational logic
 - [Domain Routing](concepts/domain_routing_architecture.md) — Request classification
 - [Socratic Philosophy](concepts/socratic_philosophy.md) — "Sangsia" (Teacher) pedagogy
 - [Psycholinguistic Architecture](concepts/psycholinguistic_architecture.md) — Lung-Kha framework
@@ -34,9 +34,8 @@
 - [ZVS Standard Format Rules](grammar/zolai_standard_format_rules.md)
 
 ### Quick References
-- [Grammar Cheat Sheet](zolai_grammar_cheat_sheet.md)
-- [ZVS Standard Format](Zolai_Standard_Format.md)
-- [System Prompt](zolai_system_prompt.txt)
+- [Grammar Cheat Sheet](grammar/zolai_grammar_cheat_sheet.md)
+- [ZVS Standard Format](grammar/Zolai_Standard_Format.md)
 
 ---
 
@@ -47,6 +46,8 @@
 - [Modern Technology](vocabulary/modern_technology.md)
 - [Theology](vocabulary/theology.md)
 - [Idioms & Metaphors](vocabulary/idioms_and_metaphors.md)
+- [Vocabulary Recommendations](vocabulary/vocab_recommendations.md)
+- [Zolai Compound Words](vocabulary/zo_compound_words.md)
 - [CEFR Wordlists](vocabulary/wordlists/) — A1, A2, B1, B2, C1
 
 ---
@@ -62,18 +63,6 @@
 
 ---
 
-## 🌍 Culture & History
-
-- [Historical Origins](culture/historical_origins.md)
-- [Traditional Customs](culture/traditional_customs.md)
-- [Khuado](culture/khuado.md)
-- [Future of Zolai](culture/future_of_zolai.md)
-- [Zomi Comprehensive](culture/zomi_comprehensive.md)
-- [Historical Milestones](history/historical_milestones.md)
-- [Bible History](history/zolai_bible_history.md)
-
----
-
 ## 🤖 Training & AI
 
 - [AI Second Brain](training/ai_second_brain.md)
@@ -83,16 +72,20 @@
 - [Evaluation Benchmarks](training/evaluation_benchmarks.md)
 - [Curriculum to Training Pipeline](training/curriculum_to_training_pipeline.md)
 - [Low Resource NLP Research](training/low_resource_nlp_research.md)
+- [Zolai AI Instructions](training/zolai_ai_instructions.md) — language AI processing guide (ground truth)
+- [Zolai System Prompt](training/zolai_system_prompt.txt) — canonical system prompt
 
 ---
 
-## 📝 Translation & Register
+## 🌍 Culture & History
 
-- [Translation Decision Patterns](translation/decision_patterns.md)
-- [English to Zolai Mapping](translation/english_to_zolai_mapping.md)
-- [Idioms](translation/idioms.md)
-- [Register Guide](register/register_guide.md)
-- [Social Registers](grammar/social_registers.md)
+- [Historical Origins](culture/historical_origins.md)
+- [Traditional Customs](culture/traditional_customs.md)
+- [Khuado](culture/khuado.md)
+- [Future of Zolai](culture/future_of_zolai.md)
+- [Zomi Comprehensive](culture/zomi_comprehensive.md)
+- [Historical Milestones](culture/historical_milestones.md)
+- [Bible History](culture/zolai_bible_history.md)
 
 ---
 
@@ -106,62 +99,34 @@
 
 ---
 
-## 🗂️ Planning & Changelog
+## 📝 Translation & Register
 
-- [CHANGELOG](planning/CHANGELOG.md)
-- [SMART Goals Roadmap](planning/smart_goals_roadmap.md)
-- [Contributor Guide](planning/contributor_guide.md)
-- [SWOT Audit 2026](planning/swot_smart_audit_2026_04_18.md)
+- [Translation Decision Patterns](translation/decision_patterns.md)
+- [English to Zolai Mapping](translation/english_to_zolai_mapping.md)
+- [Idioms](translation/idioms.md)
+- [Register Guide](grammar/register_guide.md)
+- [Social Registers](grammar/social_registers.md)
+
+---
+
+## 📖 Biblical
+
+- [Books Summary](biblical/books_summary.md)
+- [Biblical Sentence Patterns](grammar/biblical_sentence_patterns.md)
+- [Comparative Book Patterns](biblical/comparative_book_patterns.md)
+- [Worship Linguistic Standards](biblical/worship_linguistic_standards.md)
 
 ---
 
 ## 🧩 Linguistic Deep Dives
 
-### Negation
-- [Negation Guide](negation/negation_guide.md)
+All formerly standalone directories have been merged into `grammar/`:
 
-### Numbers
-- [Number System](numbers/number_system.md)
-
-### Particles
-- [Particle Index](particles/particle_index.md)
-
-### Pronouns
-- [Pronoun Guide](pronouns/pronoun_guide.md)
-
-### Register
-- [Register Guide](register/register_guide.md)
-
----
-
-## ⚠️ Mistakes & Corrections
-
-- [Common Mistakes](mistakes/common_mistakes.md)
-
----
-
-## 📖 Glossary
-
-- [Zolai Compound Words](glossary/zo_compound_words.md)
-
----
-
-## 🚀 Features & Roadmap
-
-- [Competitive Features Roadmap](features/competitive_features_roadmap.md)
-
----
-
-## 🔬 Decisions & Patterns
-
-- [Decisions](decisions/) — Architecture and design decisions
-- [Patterns](patterns/) — Recurring code and data patterns
-
----
-
-## 🏗️ Architecture
-
-- [Chat System](architecture/chat_system.md)
+- [Negation Guide](grammar/negation_guide.md)
+- [Number System](grammar/number_system.md)
+- [Particle Index](grammar/particle_index.md)
+- [Pronoun Guide](grammar/pronoun_guide.md)
+- [Common Mistakes](grammar/common_mistakes.md)
 
 ---
 
@@ -180,23 +145,17 @@
 
 ---
 
-## 📖 Biblical Alignment
-
-- [Biblical Alignment](biblical_alignment/) — Verse alignment research
-
----
-
 ## 📦 Bundle
 
 - [Bundle](bundle/) — Compiled wiki bundles for NotebookLM / offline use
 
 ---
 
-## 🗂️ Dictionary Rebuild History
+## 📚 Docs
 
-- [Dictionary Rebuild v2](dictionary_rebuild_v2/README.md)
-- [Dictionary Rebuild v3](dictionary_rebuild_v3/README.md)
-- [Dictionary Rebuild v5](dictionary_rebuild_v5/README.md)
+- [Competitive Features Roadmap](docs/competitive_features_roadmap.md)
+- [NotebookLM Complete](docs/zolai_notebooklm_complete.md) — full pedagogical reference
+- [Wiki Enrichment Guide](docs/WIKI_ENRICHMENT_GUIDE.md)
 
 ---
 
@@ -207,16 +166,36 @@
 
 ---
 
+## 🗂️ Planning & Changelog
+
+- [CHANGELOG](planning/CHANGELOG.md)
+- [SMART Goals Roadmap](planning/smart_goals_roadmap.md)
+- [Contributor Guide](planning/contributor_guide.md)
+- [SWOT Audit 2026](planning/swot_smart_audit_2026_04_18.md)
+
+---
+
+## 🗂️ Dictionary Rebuild History
+
+All dictionary rebuild docs are archived:
+
+- [Dictionary Rebuild v2](archive/dictionary_rebuild_v2/README.md)
+- [Dictionary Rebuild v3](archive/dictionary_rebuild_v3/README.md)
+- [Dictionary Rebuild v5](archive/dictionary_rebuild_v5/README.md)
+- [Learning Summary (2026-04-22)](archive/LEARNING_SUMMARY_2026_04_22.md)
+
+---
+
 ## ZVS Dialect Rules (Quick Reference)
 
 | ✅ Use | ❌ Never |
 |--------|---------|
-| `pasian` | `pasian` |
-| `gam` | `gam` |
-| `tapa` | `tapa` |
-| `topa` | `topa` |
-| `kumpipa` | `???` |
-| `tua` | `tua` / `tuan` |
+| `pasian` | `pathian` |
+| `gam` | `ram` |
+| `tapa` | `fapa` |
+| `topa` | `bawipa` |
+| `kumpipa` | `siangpahrang` |
+| `tua` | `cu` / `cun` |
 
 - Word order: **SOV** (Subject-Object-Verb)
 - Negation: `kei` not `lo` for conditionals (`nong pai kei a leh` — NEVER `kei a leh`)
@@ -234,18 +213,7 @@
 
 ---
 
-## 🧭 Reference & Instructions
-
-- [Zolai AI Instructions](zolai_ai_instructions.md) — language AI processing guide (ground truth)
-- [Zolai System Prompt](zolai_system_prompt.txt) — canonical system prompt
-- [Zolai Grammar Cheat Sheet](zolai_grammar_cheat_sheet.md) — quick grammar reference
-- [Zolai Standard Format](Zolai_Standard_Format.md) — ZVS 2018 format rules
-- [Zolai NotebookLM Complete](zolai_notebooklm_complete.md) — full pedagogical reference
-- [Books Summary](books_summary.md) — key texts overview
-- [Vocabulary Recommendations](vocab_recommendations.md) — vocab improvement notes
-- [Learning Summary (2026-04-22)](LEARNING_SUMMARY_2026_04_22.md) — prior learning-session recap
-
-**Last Updated: 2026-09-03**
+**Last Updated: 2026-09-05**
 
 ---
 
@@ -255,8 +223,7 @@ This repo is a component of the **[Zolai-AI](https://github.com/Zolai-AI)** orga
 [org profile](https://github.com/Zolai-AI) for the full ecosystem and
 [`.github/CONTRIBUTING.md`](https://github.com/Zolai-AI/.github/blob/main/CONTRIBUTING.md) to contribute.
 
-`zolai-core` · `zolai-web` · `zolai-tauri` · `zolai-datasets` · `zolai-training` · `zolai-ai` (monorepo)
-
+`zolai-core` · `zolai-web` · `zolai-tauri` · `zolai-datasets` · `zolai-training` · `zolai-wiki` · `zolai-ai.github.io`
 
 ---
 

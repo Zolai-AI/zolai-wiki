@@ -70,8 +70,8 @@
 
 | Date | File | Change | Reason |
 |---|---|---|---|
-| 2026-04-17 | `negation/negation_guide.md` | Clarified `lo` is valid ZVS (3rd person/past) — NOT Hakha-only | Corpus evidence from TDB77/TBR17/Tedim2010 |
-| 2026-04-17 | `negation/negation_guide.md` | Added `kei lo` = compound absolute negation | Ten Commandments corpus evidence |
+| 2026-04-17 | `grammar/negation_guide.md` | Clarified `lo` is valid ZVS (3rd person/past) — NOT Hakha-only | Corpus evidence from TDB77/TBR17/Tedim2010 |
+| 2026-04-17 | `grammar/negation_guide.md` | Added `kei lo` = compound absolute negation | Ten Commandments corpus evidence |
 | 2026-04-17 | `ggammar/` | Added `sanginn` = correct ZVS spelling (not `sanggin`) | Spelling correction |
 | 2026-04-17 | `memory/long_term.md` | Added training progress (val loss sessions 1–3) | Session tracking |
 

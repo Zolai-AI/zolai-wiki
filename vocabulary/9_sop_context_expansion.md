@@ -270,9 +270,9 @@ The 9 SOP is a standardized framework for enriching dictionary entries with cont
 
 ## Related Documentation
 
-- [Dictionary Rebuild V2 — System Overview](../dictionary_rebuild_v2/README.md)
-- [Dictionary Rebuild V2 — Agent Specifications](../dictionary_rebuild_v2/agents.md)
-- [Dictionary Rebuild V2 — Pipeline Guide](../dictionary_rebuild_v2/pipeline.md)
+- [Dictionary Rebuild V2 — System Overview](../archive/dictionary_rebuild_v2/README.md)
+- [Dictionary Rebuild V2 — Agent Specifications](../archive/dictionary_rebuild_v2/agents.md)
+- [Dictionary Rebuild V2 — Pipeline Guide](../archive/dictionary_rebuild_v2/pipeline.md)
 
 ---
 

@@ -2196,7 +2196,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *But them that are without God judgeth. Therefore put away from among y* → **A pua lamah a omte Pasian in thu a khen ding hi. Tua a gilopa note lak**
 
 ---
-<!-- SOURCE: wiki/negation/negation_guide.md -->
+<!-- SOURCE: wiki/grammar/negation_guide.md -->
 
 # Zolai Negation — Complete Corpus Reference
 > Source: Bible Parallel Corpus (TDB77 + Tedim2010 ZVS + KJV), 31,055 verses
@@ -6313,7 +6313,7 @@ One of the most defining moments for Zomi global awareness was the **Labor Corps
 *Reference: Zolai Sinna Bu (Lesson 34, "Piantit Pai" and "Rev. Dr. Cope"), Zolai Khanggui (AD 1899–2013, pp. 22–100), ZVS Standard Format.*
 
 ---
-<!-- SOURCE: wiki/mistakes/common_mistakes.md -->
+<!-- SOURCE: wiki/grammar/common_mistakes.md -->
 
 # Common AI Mistakes (Zolai Tedim)
 
