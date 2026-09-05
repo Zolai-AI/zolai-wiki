@@ -3555,10 +3555,10 @@ Paikhin pekpek.
 (26) HI LEH HOIHZAW DING HI
 
 1. Hi thei leh van/na (noun) khat peuhpeuh pen mal khat (malgawm khat) ta in mat gai aa gelh huai
-hi. Tua hi leh laimal gawm ding le hal ding cihte ngaihsutna ciaptehna nuamtuam mahmah ding
+hi. Tua hihleh laimal gawm ding le hal ding cihte ngaihsutna ciaptehna nuamtuam mahmah ding
 hi.
 2. Lai pen standard a om nading, a luanzia, a kigelhziate format kician takin a om ding kisam hi.
-3. Lai pen theih baih ding, tel baih ding, ciapteh baih ding hi leh tangzai baihzaw ding hi.
+3. Lai pen theih baih ding, tel baih ding, ciapteh baih ding hihleh tangzai baihzaw ding hi.
 4. Lai pen minambup in a malgawm kibangkim takin zatkhop ding thupi hi.
 5. Pau/kammal om khempeuh kibaan sin gaih zolo ding ahih manin, laimal gawmzia khat theih
 naak aa leh pau/kammal khat peuhpeuh dik takin malgawm pah theih nading Standard Format
