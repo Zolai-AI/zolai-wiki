@@ -51,7 +51,7 @@ Ka it mahmah hi.   I love very much.
 ```
 Na pai hi.          You go.
 Na pa              Your father
-Na min kua na ze?  What is your name?
+Na min kua na hiam?  What is your name?
 ```
 
 ### `a` (3rd person singular — multi-function)
@@ -87,12 +87,12 @@ Tedim has a rich system of sentence-final particles that encode mood, evidential
 
 | Particle | Function | Example | Translation |
 |---|---|---|---|
-| `hiam` | Yes/no question (neutral) | `A pai hiam?` | Does he go? |
+| `hiam` | Universal question marker | `A pai hiam?` | Does he go? |
 | `diam` | Soft yes/no question | `Na pai ding diam?` | Will you go? (gentle) |
 | `maw` | Confirmation/tag question | `Hoih maw?` | It's good, right? |
 | `hia` | Informal question (colloquial) | `Na dam hia?` | Are you well? (casual) |
-| `ze` | Content question marker | `Bang ci na ze?` | What is it? |
-| `na ze` | Polite content question | `An min kua na ze?` | What is your name? |
+| `bang ci` | Content question (what/how) | `Bang ci na hi hiam?` | What are you? |
+| `kua` | Content question (who) | `Kuama hi na hiam?` | Who is it? |
 
 ### Declarative/Modal Particles
 
@@ -175,6 +175,8 @@ A pai ding khin hi.   He was going to go (but didn't). (future + experiential)
 - ✓ `Nong pai kei a leh` — If you don't go
 - ✗ `Nong pai kei a leh` — WRONG
 
+**Note:** `ze` is NOT a question marker — it's an emphatic particle meaning "completely/at all" (e.g., `zenzen` = completely, `zel` = entirely). The universal question marker is `hiam`.
+
 ---
 
 ## 6. Interrogative Words
@@ -182,12 +184,12 @@ A pai ding khin hi.   He was going to go (but didn't). (future + experiential)
 | Zolai | English | Example | Translation |
 |---|---|---|---|
 | `bang` | what | `Hi bang hi hiam?` | What is this? |
-| `bang ci` | what kind / how | `Bang ci na ze?` | What is it? / How is it? |
+| `bang ci` | what kind / how | `Bang ci na hi hiam?` | What is it? / How is it? |
 | `banghang` | why | `Banghang na pai?` | Why do you go? |
 | `bangzat` | how many / how much | `Bangzat a man?` | How much does it cost? |
 | `koi` | where | `Koi ah om?` | Where is it? |
 | `koi ah` | where (locative) | `Inn koi ah om?` | Where is the house? |
-| `kuama` | who | `Kuama hi na ze?` | Who is it? |
+| `kuama` | who | `Kuama hi na hiam?` | Who is it? |
 | `bang hang hiam cih leh` | because / why-because | `Bang hang hiam cih leh...` | Because... (causal connector) |
 | `tu` | when (now/present) | `Tu-in` | Now / at this point |
 | `nidang` | when (future) | `Nidang ka hong ki mu kik ding.` | We will meet again someday. |
