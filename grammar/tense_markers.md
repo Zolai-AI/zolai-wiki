@@ -65,10 +65,9 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 | Tense | Pattern | Example | Translation |
 |-------|---------|---------|-------------|
 | **Present positive** | `V + hi` | `Ka pai hi.` | I go. |
-| **Present negative (1st/2nd)** | `V + kei + hi` | `Ka pai kei hi.` | I don't go. |
-| **Present negative (3rd)** | `V + lo + hi` | `A pai lo hi.` | He doesn't go. |
+| **Present negative** | `V + kei + hi` | `Ka pai kei hi.` | I don't go. |
 | **Future positive** | `V + ding` | `Kei pai ding.` | I will go. |
-| **Future negative** | `V + lo + ding` | `Kei pai lo ding.` | I will not go. |
+| **Future negative** | `V + kei + ding` | `Kei pai kei ding.` | I will not go. |
 | **Past** | `ciangin + V` | `Ciangin pai hi.` | Then went. |
 | **Completive** | `V + ta` | `Pai ta hi.` | Already went. |
 
@@ -83,27 +82,62 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 | **V + nuam lo** | Desire ("don't want") | `Ka pai nuam lo hi.` | I don't want to go. |
 | **kuamah...lo** | Universal ("nobody does") | `Kuamah a theilo hi.` | Nobody knows. |
 
-### ⚠️ Critical Negation Rules
+### ⚠️ Key Negation Rules
 
-1. **Present/past negation:** Use `kei` for 1st/2nd person, `lo` for 3rd person
+1. **`kei` is the standard negation particle for ALL persons**
    - ✅ `Ka pai kei hi.` — I don't go. (1st person)
-   - ✅ `A pai lo hi.` — He doesn't go. (3rd person)
-   - ❌ `Ka pai lo hi.` — **Unnatural for 1st person**
-   - ❌ `A pai kei hi.` — **Unnatural for 3rd person**
+   - ✅ `Na pai kei hi.` — You don't go. (2nd person)
+   - ✅ `A pai kei hi.` — He doesn't go. (3rd person)
+   - ✅ `Kei pai kei ding.` — I will not go. (future)
+   - ✅ `A pai kei ding.` — He will not go. (future)
 
-2. **Future negation:** Use `lo + ding` (regardless of person)
-   - ✅ `Kei pai lo ding.` — I will not go. (1st person)
-   - ✅ `A pai lo ding.` — He will not go. (3rd person)
-   - ❌ `Kei pai kei ding.` — **Unnatural**
-   - ❌ `A pai kei ding.` — **Unnatural**
+2. **`lo` is also valid but in different contexts**
+   - `lo` is more literary/formal
+   - `lo` is used in adjectives: `hoihlo` (not good), `theilo` (cannot)
+   - Both `a pai kei hi` and `a pai lo hi` are correct
 
-3. **Negative conditional:** Use `kei...leh`, NEVER `kei a leh`
+3. **Negative conditional:** Use `kei...a leh`
+   - ✅ `Na pai kei a leh...` — If you don't go...
    - ✅ `Nong pai kei a leh...` — If you don't come...
-   - ❌ `Na pai kei a leh...` — **FORBIDDEN in ZVS**
+
+4. **Content question word order:** `bang hang` + verb + subject + `hiam`
+   - ✅ `Bang hang pai na hiam?` — Why do you go?
+   - ❌ `Bang hang na pai hiam?` — **Incorrect word order**
 
 ---
 
-## 5. Directional & Positional Particles
+
+---
+
+## 5. Pronouns & Agreement Markers
+
+### Agreement Markers (pre-verbal)
+These go before the verb and mark the person of the subject:
+| Marker | Person | Example |
+|--------|--------|---------|
+| `ka` | 1st singular | `Ka pai hi.` — I go. |
+| `na` | 2nd singular | `Na pai hi.` — You go. |
+| `a` | 3rd singular | `A pai hi.` — He/she goes. |
+| `i` | 1st plural | `I pai hi.` — We go. |
+| `uh` | 3rd plural | `Uh pai hi.` — They go. |
+
+### Standalone Pronouns (for emphasis)
+These are used when you want to emphasize the subject:
+| Pronoun | Person | Example |
+|---------|--------|---------|
+| `kei` | 1st singular | `Kei pai hi.` — I go (emphatic). |
+| `nang` | 2nd singular | `Nang pai hi.` — You go (emphatic). |
+| `amah` | 3rd singular | `Amah a pai hi.` — HE goes (emphatic). |
+| `amaute` | 3rd plural | `Amaute a pai hi.` — THEY go (emphatic). |
+
+### Key Difference: "a" vs "amah"
+- **"a"** = agreement marker (always present with 3rd person): `a pai hi` = he goes
+- **"amah"** = standalone pronoun (for emphasis): `amah a pai hi` = HE goes
+- Both are correct, but "amah" emphasizes the subject
+
+---
+
+## 6. Directional & Positional Particles
 
 | Particle | Direction | Example | Translation |
 |----------|-----------|---------|-------------|

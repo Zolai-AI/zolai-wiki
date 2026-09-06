@@ -104,12 +104,27 @@ SOV (Subject-Object-Verb):
   - Bang hang na pai hiam? (Why do you go?)
 
 ## 9. Pronoun Agreement
-- **1st person singular**: ka (subject), kei (emphatic)
-- **2nd person singular**: na (subject), nang (emphatic)
-- **3rd person singular**: a (subject), amah (emphatic)
-- **1st person plural**: i (subject), ih (possessive)
-- **2nd person plural**: nau (subject), naute (emphatic)
-- **3rd person plural**: au (subject), amaute (emphatic)
+
+### Agreement Markers (pre-verbal, always present)
+These go before the verb and mark the person of the subject:
+- **ka** = 1st person singular agreement marker (I)
+- **na** = 2nd person singular agreement marker (you)
+- **a** = 3rd person singular agreement marker (he/she/it)
+- **i** = 1st person plural agreement marker (we)
+- **uh** = 3rd person plural agreement marker (they)
+
+### Standalone Pronouns (used for emphasis or explicit reference)
+These are used when you want to emphasize the subject or make it explicit:
+- **kei** = I (emphatic pronoun)
+- **nang** = you (emphatic pronoun)
+- **amah** = he/she/it (standalone pronoun, used for emphasis)
+- **amaute** = they (emphatic pronoun)
+- **naute** = you all (emphatic pronoun)
+
+### Key Difference: "a" vs "amah"
+- **"a"** = agreement marker (goes before verb): "a pai hi" = he goes
+- **"amah"** = standalone pronoun (used for emphasis): "amah a pai hi" = HE goes
+- Both are correct, but "amah" emphasizes the subject
 
 ## 10. Verb Conjugation
 - **Base**: ne (eat)

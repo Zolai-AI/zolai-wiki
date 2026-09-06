@@ -198,6 +198,22 @@
 - ❌ `Ka pai lo ding hi.` — Unnatural
 - ❌ `A pai lo ding hi.` — Unnatural
 
+
+### ⚠️ Important Note on Negation
+**`kei` is the standard negation particle for ALL persons:**
+- ✅ `Ka pai kei hi.` — I don't go. (1st person)
+- ✅ `Na pai kei hi.` — You don't go. (2nd person)
+- ✅ `A pai kei hi.` — He doesn't go. (3rd person)
+- ✅ `A pai kei ding.` — He will not go. (future)
+
+**`lo` is also valid but in different contexts (literary/formal):**
+- ✅ `A pai lo hi.` — He doesn't go. (alternative)
+- ✅ `A pai lo ding.` — He will not go. (alternative)
+
+**Content question word order: `bang hang` + verb + subject + `hiam`:**
+- ✅ `Bang hang pai na hiam?` — Why do you go?
+- ❌ `Bang hang na pai hiam?` — **Incorrect word order**
+
 ### Questions
 | English | Zolai | Pattern |
 |---------|-------|---------|
