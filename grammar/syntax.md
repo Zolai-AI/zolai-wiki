@@ -15,7 +15,7 @@ The fundamental sentence structure is **Subject + Object + Verb**.
 | God created the world. | Pasian leitung bawl hi. | S + O + V |
 | I eat rice. | Ka ne hi. | S + O + V |
 | He reads the book. | Amah laibu sim hi. | S + O + V |
-| The man went to the village. | Mi khua ah pai hi. | S + Loc + V |
+| The man went to the village. | Mipa khua ah pai hi. | S + Loc + V |
 
 ### Subject Marking
 
@@ -24,7 +24,7 @@ The ergative marker **in** marks the agent/subject of transitive verbs:
 | Sentence | Meaning |
 | :--- | :--- |
 | `Amah in laibu sim hi.` | He reads the book. (emphatic subject) |
-| `Mi in ne hi.` | The man eats rice. |
+| `Mipa in ne hi.` | The man eats rice. |
 | `Pasian in leitung bawl hi.` | God created the world. |
 
 Note: **in** is optional in many contexts but required for emphasis or clarity.
@@ -230,7 +230,7 @@ Zolai commonly chains verbs without conjunctions:
 | :--- | :--- | :--- |
 | `Pasian in vantung leh leitung bawl hi.` | God created heaven and earth. | Genesis 1:1 |
 | `Pasian leitung a bawl takin hi.` | God finished creating the earth. | Genesis 2:2 |
-| `Mi in ne laitakin a tung uhhi.` | While the man was eating, they died. | Genesis 3:6 |
+| `Mipa in ne laitakin a tung uhhi.` | While the man was eating, they died. | Genesis 3:6 |
 | `Amah in thu a gen mah hi.` | He spoke the word. | Various |
 | `Topa in thu a gen hi.` | The Lord spoke the word. | Various |
 
