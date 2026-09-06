@@ -190,6 +190,14 @@
 | I will not eat | `Ka ne kei ding hi` | S + V + future neg |
 | I will not go | `Ka pai kei ding hi` | S + V + future neg |
 
+
+### ⚠️ Important Note on Future Negation
+**Future negation ALWAYS uses `kei + ding` (regardless of person):**
+- ✅ `Ka pai kei ding hi.` — I will not go. (1st person)
+- ✅ `A pai kei ding hi.` — He will not go. (3rd person)
+- ❌ `Ka pai lo ding hi.` — Unnatural
+- ❌ `A pai lo ding hi.` — Unnatural
+
 ### Questions
 | English | Zolai | Pattern |
 |---------|-------|---------|
