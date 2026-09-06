@@ -22,7 +22,7 @@
 
 | English | Zolai |
 |---|---|
-| I eat rice. | `Kei in an ka ne hi.` |
+| I eat rice. | `Ka ne hi.` |
 | He is doing his work. | `Amah in a nasep sem hi.` |
 | My father reads a book. | `Ka pa in laibu a sim hi.` |
 | God created all things. | `Pasian in nakhempeuh a piangsak hi.` |
