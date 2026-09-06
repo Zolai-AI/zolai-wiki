@@ -60,12 +60,17 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 
 ## 4. Negation Patterns
 
-### By Person
+### By Tense
 
-| Person | Present/Past | Future | Example |
-|--------|--------------|--------|---------|
-| **1st/2nd** | `V + kei` | `V + kei + ding` | `Ka pai kei hi.` (I don't go) |
-| **3rd** | `V + lo` | `V + lo + ding` | `A pai lo hi.` (He doesn't go) |
+| Tense | Pattern | Example | Translation |
+|-------|---------|---------|-------------|
+| **Present positive** | `V + hi` | `Ka pai hi.` | I go. |
+| **Present negative (1st/2nd)** | `V + kei + hi` | `Ka pai kei hi.` | I don't go. |
+| **Present negative (3rd)** | `V + lo + hi` | `A pai lo hi.` | He doesn't go. |
+| **Future positive** | `V + ding` | `Kei pai ding.` | I will go. |
+| **Future negative** | `V + lo + ding` | `Kei pai lo ding.` | I will not go. |
+| **Past** | `ciangin + V` | `Ciangin pai hi.` | Then went. |
+| **Completive** | `V + ta` | `Pai ta hi.` | Already went. |
 
 ### Special Constructions
 
@@ -80,17 +85,17 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 
 ### ⚠️ Critical Negation Rules
 
-1. **Person agreement:** Use `kei` for 1st/2nd person, `lo` for 3rd person
+1. **Present/past negation:** Use `kei` for 1st/2nd person, `lo` for 3rd person
    - ✅ `Ka pai kei hi.` — I don't go. (1st person)
    - ✅ `A pai lo hi.` — He doesn't go. (3rd person)
    - ❌ `Ka pai lo hi.` — **Unnatural for 1st person**
    - ❌ `A pai kei hi.` — **Unnatural for 3rd person**
 
-2. **Future negation:** Use `kei + ding` for 1st/2nd person, `lo + ding` for 3rd person
-   - ✅ `Ka pai kei ding hi.` — I will not go. (1st person)
-   - ✅ `A pai lo ding hi.` — He will not go. (3rd person)
-   - ❌ `Ka pai lo ding hi.` — **Unnatural for 1st person**
-   - ❌ `A pai kei ding hi.` — **Unnatural for 3rd person**
+2. **Future negation:** Use `lo + ding` (regardless of person)
+   - ✅ `Kei pai lo ding.` — I will not go. (1st person)
+   - ✅ `A pai lo ding.` — He will not go. (3rd person)
+   - ❌ `Kei pai kei ding.` — **Unnatural**
+   - ❌ `A pai kei ding.` — **Unnatural**
 
 3. **Negative conditional:** Use `kei...leh`, NEVER `kei a leh`
    - ✅ `Nong pai kei a leh...` — If you don't come...
