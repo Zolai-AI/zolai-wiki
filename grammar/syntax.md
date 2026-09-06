@@ -13,7 +13,7 @@ The fundamental sentence structure is **Subject + Object + Verb**.
 | English | Zolai | Structure |
 | :--- | :--- | :--- |
 | God created the world. | Pasian leitung bawl hi. | S + O + V |
-| I eat rice. | Ka an nek hi. | S + O + V |
+| I eat rice. | Ka ne hi. | S + O + V |
 | He reads the book. | Amah laibu sim hi. | S + O + V |
 | The man went to the village. | Mi khua ah pai hi. | S + Loc + V |
 
@@ -24,7 +24,7 @@ The ergative marker **in** marks the agent/subject of transitive verbs:
 | Sentence | Meaning |
 | :--- | :--- |
 | `Amah in laibu sim hi.` | He reads the book. (emphatic subject) |
-| `Mi in an nek hi.` | The man eats rice. |
+| `Mi in ne hi.` | The man eats rice. |
 | `Pasian in leitung bawl hi.` | God created the world. |
 
 Note: **in** is optional in many contexts but required for emphasis or clarity.
@@ -38,7 +38,7 @@ Note: **in** is optional in many contexts but required for emphasis or clarity.
 | Pattern | Example | Meaning |
 | :--- | :--- | :--- |
 | S + V | `Ka pai hi.` | I go. |
-| S + O + V | `Ka an nek hi.` | I eat rice. |
+| S + O + V | `Ka ne hi.` | I eat rice. |
 | S + IO + DO + V | `Ka amah ah an pi hi.` | I give him rice. |
 
 ### B. Copular Sentences
@@ -179,9 +179,9 @@ Zolai uses pre-nominal relative clauses:
 
 | Marker | Function | Example |
 | :--- | :--- | :--- |
-| **lo** | General negation | `Ka pai lo.` (I don't go.) |
+| **kei** | General negation (1st/2nd person) | `Ka pai kei hi.` (I don't go.) |
+| **lo** | General negation (3rd person) | `Amah pai lo hi.` (He doesn't go.) |
 | **si** | Negative copula | `Amah pasal si.` (He is not a man.) |
-| **kei** | Prohibitive | `Pai kei.` (Don't go!) |
 | **ken** | Strong prohibitive | `Pai ken.` (Do not go!) |
 | **neilo** | Have not | `Ka nei lo.` (I don't have.) |
 
@@ -189,7 +189,9 @@ Zolai uses pre-nominal relative clauses:
 
 | Affirmative | Negative | Meaning |
 | :--- | :--- | :--- |
-| `Ka pai hi.` | `Ka pai lo.` | I don't go. |
+| `Ka pai hi.` | `Ka pai kei hi.` | I don't go. |
+| `Na pai hi.` | `Na pai kei hi.` | You don't go. |
+| `Amah pai hi.` | `Amah pai lo hi.` | He doesn't go. |
 | `Amah om hi.` | `Amah omlo hi.` | He isn't here. |
 | `Ka thei hi.` | `Ka theilo hi.` | I don't know. |
 | `Ka nei hi.` | `Ka neilo hi.` | I don't have. |
@@ -202,9 +204,9 @@ Zolai commonly chains verbs without conjunctions:
 
 | Pattern | Example | Meaning |
 | :--- | :--- | :--- |
-| V + V | `Ka pai nek hi.` | I go to eat. |
 | V + V | `Ka tai sim hi.` | I sit and read. |
 | V + V | `Amah ta pai hi.` | He stands up and goes. |
+| V + V | `Amah nek zo.` | He finished eating. |
 
 ---
 
@@ -228,7 +230,7 @@ Zolai commonly chains verbs without conjunctions:
 | :--- | :--- | :--- |
 | `Pasian in vantung leh leitung bawl hi.` | God created heaven and earth. | Genesis 1:1 |
 | `Pasian leitung a bawl takin hi.` | God finished creating the earth. | Genesis 2:2 |
-| `Mi in an nek laitakin a tung uhhi.` | While the man was eating, they died. | Genesis 3:6 |
+| `Mi in ne laitakin a tung uhhi.` | While the man was eating, they died. | Genesis 3:6 |
 | `Amah in thu a gen mah hi.` | He spoke the word. | Various |
 | `Topa in thu a gen hi.` | The Lord spoke the word. | Various |
 
