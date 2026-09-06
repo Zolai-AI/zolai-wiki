@@ -22,7 +22,7 @@
 ### Pronoun Drop Rule
 In informal speech, subject pronouns are dropped when the agreement marker makes person clear:
 - Informal: `An ka ne hi.` (I ate food — `kei` dropped)
-- Formal: `Kei in an ka ne hi.` (I ate food — explicit)
+- Formal: `Ka ne hi.` (I eat food — explicit)
 
 ### Emphatic Pronouns
 - `Kei mah` = I myself / me alone

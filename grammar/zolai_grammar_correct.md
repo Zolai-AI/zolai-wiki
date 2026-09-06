@@ -187,8 +187,8 @@
 | I don't go | `Ka pai kei hi` | S + V + neg |
 | I will eat | `Ka ne ding hi` | S + V + future |
 | I will go | `Ka pai ding hi` | S + V + future |
-| I will not eat | `Ka ne lo ding hi` | S + V + future neg |
-| I will not go | `Ka pai lo ding hi` | S + V + future neg |
+| I will not eat | `Ka ne kei ding hi` | S + V + future neg |
+| I will not go | `Ka pai kei ding hi` | S + V + future neg |
 
 ### Questions
 | English | Zolai | Pattern |
