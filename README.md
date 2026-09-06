@@ -231,3 +231,41 @@ This repo is a component of the **[Zolai-AI](https://github.com/Zolai-AI)** orga
 
 Full project ecosystem, architecture, design, status & plans: **[Zolai AI Project Brain](https://github.com/Zolai-AI/.github/blob/main/docs/ZOLAI_AI_PROJECT_BRAIN.md)**.
 Part of the [Zolai-AI](https://github.com/Zolai-AI) org.
+
+---
+
+## 📊 Data Sources
+
+This wiki is built from the following data sources. **Full credits:** See [`data/CREDITS.md`](https://github.com/Zolai-AI/zolai-datasets/blob/main/data/CREDITS.md)
+
+### Bible (Primary Corpus)
+- **Source:** [dalsuum/bible-master](https://github.com/dalsuum/bible-master)
+- **Versions:** Tedim 1932, Tedim 2010, TDB77, Hakha 1920, Falam 1973, Paite 1971
+- **Entries:** 31,102 parallel verses (EN↔ZO)
+- **Why:** Only complete, trusted EN/ZO parallel corpus available
+
+### Dictionary
+- **Zolai→English:** 93,931 entries ([ZomiLanguage/dictionary](https://github.com/ZomiLanguage/dictionary))
+- **English→Zolai:** 112,220 entries
+- **Trilingual:** 7,861 headwords ([dalsuum/zolai-dictionary](https://github.com/dalsuum/zolai-dictionary))
+- **TongDot:** 5,004 entries
+- **Glosbe:** Tedim-English translation examples
+
+### Reference Materials
+- **Zolai Grammar Vol 1** — Taang Zomi (2010) — 17,196 lines
+- **Zolai Sinna** — ZAUS (2010) — 6,259 lines (34 lessons)
+- **ZVS 2018** — Zomi Virtual State — orthography standard
+- **Gentehna Tuamtuam** — 51 Bible stories
+
+### Corpus
+- **paumkim/zomi-dataset** — 208MB clean corpus (3M+ sentences)
+- **Worship songs** — 573KB lyrics
+- **Conversational Zomi** — 547KB spoken data
+
+### Community Contributors
+- **paumkim** — Comprehensive Zolai dataset + crawling scripts
+- **dalsuum** — Bible JSON corpus + trilingual dictionary
+- **Min Si Thu** — Tedim-English-Burmese Handbook + MyanmarGPT
+- **Taang Zomi** — Authoritative Zolai Grammar Vol 1
+- **ZAUS** — Zolai Sinna textbook
+- **Zomi Virtual State** — ZVS 2018 orthography standard
