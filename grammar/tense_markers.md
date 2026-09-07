@@ -94,7 +94,7 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 2. **`lo` is also valid but in different contexts**
    - `lo` is more literary/formal
    - `lo` is used in adjectives: `hoihlo` (not good), `theilo` (cannot)
-   - Both `a pai kei hi` and `a pai lo hi` are correct
+   - `a pai kei hi` and `pai lo hi` are correct (note: 'lo' does NOT take 'a' agreement)
 
 3. **Negative conditional:** Use `kei...a leh`
    - ✅ `Na pai kei a leh...` — If you don't go...
