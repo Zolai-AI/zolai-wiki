@@ -91,9 +91,9 @@ SOV (Subject-Object-Verb):
 - **1st/2nd person**: Use "kei" (NOT "lo")
   - Ka pai kei hi. (I don't go)
 - **3rd person**: Use "lo" or "kei"
-  - A pai lo hi. (He didn't go)
+  - Pai lo hi. (He didn't go)
 - **Future negation**: Use "lo ding"
-  - Ka pai lo ding hi. (I will not go)
+  - Kpai lo ding hi. (I will not go)
 
 ## 8. Question Patterns
 - **Yes/no questions**: Use "hiam"

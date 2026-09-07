@@ -164,7 +164,7 @@
 ### ❌ Incorrect: "ka an ne hi"
 **Correct:** `Ka ne hi` (I eat)
 
-### ❌ Incorrect: "Ka pai lo hi" (for 1st person)
+### ❌ Incorrect: "Kpai lo hi" (for 1st person)
 **Correct:** `Ka pai kei hi` (I don't go)
 
 ### ❌ Incorrect: "Ka pai nek hi" (I go to eat)
@@ -195,7 +195,7 @@
 **Future negation ALWAYS uses `kei + ding` (regardless of person):**
 - ✅ `Ka pai kei ding hi.` — I will not go. (1st person)
 - ✅ `A pai kei ding hi.` — He will not go. (3rd person)
-- ❌ `Ka pai lo ding hi.` — Unnatural
+- ❌ `Kpai lo ding hi.` — Unnatural
 - ❌ `A pai lo ding hi.` — Unnatural
 
 
@@ -207,8 +207,8 @@
 - ✅ `A pai kei ding.` — He will not go. (future)
 
 **`lo` is also valid but in different contexts (literary/formal):**
-- ✅ `A pai lo hi.` — He doesn't go. (alternative)
-- ✅ `A pai lo ding.` — He will not go. (alternative)
+- ✅ `Pai lo hi.` — He doesn't go. (alternative)
+- ✅ `Pai lo ding.` — He will not go. (alternative)
 
 **Content question word order: `bang hang` + verb + subject + `hiam`:**
 - ✅ `Bang hang pai na hiam?` — Why do you go?
