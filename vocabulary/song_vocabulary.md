@@ -66,7 +66,7 @@ This reference catalogues vocabulary found in Zolai worship song lyrics, organiz
 | # | Zolai | English | Morpheme Breakdown | Usage Example |
 |---|-------|---------|-------------------|---------------|
 | 31 | `vantung` | heaven | van (sky) + tung (top) | `Vantung sungah a pai hi.` (He goes into heaven.) |
-| 32 | `lebung` | earth | le (land) + bung (big) | `Lebung gam a siangsak ta hi.` (He sanctified the earth.) |
+| 32 | `leitung` | earth | le (land) + bung (big) | `Lebung gam a siangsak ta hi.` (He sanctified the earth.) |
 | 33 | `khuamial` | darkness | khua (village) + mial (dark) | `Khuamial sungah ka pai ta hi.` (I went into darkness.) |
 | 34 | `khuavak` | light | khua (village) + vak (bright) | `Khuavak in ka hong kip ta hi.` (Light has gathered me.) |
 | 35 | `sing` | tree | — | `Sing lamdang a hi ve hi.` (The tree is wonderful.) |
@@ -97,7 +97,7 @@ This reference catalogues vocabulary found in Zolai worship song lyrics, organiz
 | 53 | `kangaih` | suffering | kan (we) + gaih (endure) | `Kangaih tawh a pai hi.` (He goes with suffering.) |
 | 54 | `laisiangtho` | Bible | lai (book) + siang (holy) + tho (suffix) | `Laisiangtho in hong it in!` (The Bible loves!) |
 | 55 | `vantung` | heaven | van (sky) + tung (top) | `Vantung sungah a pai hi.` (He goes to heaven.) |
-| 56 | `lebung` | earth | le (land) + bung (big) | `Lebung gam a siangsak ta hi.` (He sanctified the earth.) |
+| 56 | `leitung` | earth | le (land) + bung (big) | `Lebung gam a siangsak ta hi.` (He sanctified the earth.) |
 | 57 | `tuipi` | sea | tui (water) + pi (big) | `Tuipi sungah a pai hi.` (He goes to the sea.) |
 | 58 | `khuapi` | city | khua (village) + pi (big) | `Khuapi sungah lut ta ve!` (Enter the city!) |
 | 59 | `biakinn` | church | biak (worship) + inn (house) | `Biakinn sungah kip ve un!` (Let us gather in church!) |
@@ -166,8 +166,8 @@ This reference catalogues vocabulary found in Zolai worship song lyrics, organiz
 | `kha` | spirit | khasiangtho |
 | `van` | sky | vantung |
 | `tung` | top/above | vantung |
-| `le` | land | lebung |
-| `bung` | big/large | lebung |
+| `le` | land | leitung |
+| `bung` | big/large | leitung |
 | `tui` | water | tuipi |
 | `pi` | big/great | tuipi, khuapi |
 | `khua` | village | khuapi |

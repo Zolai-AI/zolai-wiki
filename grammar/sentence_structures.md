@@ -47,7 +47,7 @@ Gam ka mu hi.
 **Example 3: Ergative Construction**
 
 ```
-Pasian in vantung leh lebung a piangsak hi.
+Pasian in vantung leh leitung a piangsak hi.
 ```
 
 | Word | Gloss | Function |
@@ -56,7 +56,7 @@ Pasian in vantung leh lebung a piangsak hi.
 | in | ERG | Ergative marker |
 | vantung | heaven | Object 1 |
 | leh | and | Conjunction |
-| lebung | earth | Object 2 |
+| leitung | earth | Object 2 |
 | a | 3SG.AGR | Agreement marker |
 | piangsak | create | Verb |
 | hi | DECL | Declarative particle |
