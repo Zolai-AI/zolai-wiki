@@ -386,12 +386,212 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 
 ---
 
+### 31. singlamteh (Cross)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `sing` | — | tree |
+| `lam` | — | path/way |
+| `teh` | — | upright/standing |
+
+**Compound:** `sing` (tree) + `lam` (path) + `teh` (upright) = "upright tree-path" = cross
+
+**Source:** Worship songs — `Singlamteh sung a tawm ta hi.` (He died on the cross.)
+
+---
+
+### 32. hotkhiatna (Salvation)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `hot` | — | save |
+| `khiat` | — | free/escape |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `hot` (save) + `khiat` (free) + `-na` (abstract) = "saving-freeing" = salvation
+
+**Source:** Worship songs — `Hotkhiatna thupha pi hi.` (The blessing of salvation comes.)
+
+---
+
+### 33. hehpihna (Grace)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `heh` | — | give |
+| `pih` | — | give |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `heh` (give) + `pih` (give) + `-na` (abstract) = "giving-giving" = grace
+
+**Source:** Worship songs — `Hehpihna sungah hong ta ve!` (Come by grace!)
+
+---
+
+### 34. thumaan (Thanksgiving)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `thu` | — | word/matter |
+| `maan` | — | multiply |
+
+**Compound:** `thu` (word) + `maan` (multiply) = "multiplied words" = thanksgiving
+
+**Source:** Worship songs — `Thumaan phat ve un!` (Give thanksgiving praise!)
+
+---
+
+### 35. kangaih (Suffering)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `kan` | — | we/us |
+| `gaih` | — | endure/bear |
+
+**Compound:** `kan` (we) + `gaih` (endure) = "we endure" = suffering
+
+**Source:** Worship songs — `Kangaih tawh a pai hi.` (He goes with suffering.)
+
+---
+
+### 36. thupha (Blessing)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `thu` | — | word/matter |
+| `pha` | — | flow/pour |
+
+**Compound:** `thu` (word) + `pha` (flow) = "flowing word" = blessing
+
+**Source:** Worship songs — `Thupha piangsak hi.` (He created blessings.)
+
+---
+
+### 37. nopna (Joy/Happiness)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `nop` | — | happy/glad |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `nop` (happy) + `-na` (abstract) = "happiness" = joy
+
+**Source:** Worship songs — `Nopna sungah a pai hi.` (He goes into happiness.)
+
+---
+
+### 38. lungnopna (Happiness)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `lung` | — | heart |
+| `nop` | — | happy |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `lung` (heart) + `nop` (happy) + `-na` (abstract) = "heart-happy" = happiness
+
+**Source:** Worship songs — `Lungnopna sungah hong ta ve!` (Come into happiness!)
+
+---
+
+### 39. lungmuanna (Sorrow)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `lung` | — | heart |
+| `muan` | — | heavy/sad |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `lung` (heart) + `muan` (heavy) + `-na` (abstract) = "heart-heavy" = sorrow
+
+**Source:** Worship songs — `Lungmuanna tawh ka pai ta hi.` (I went with sorrow.)
+
+---
+
+### 40. nuamsing (Delightful)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `nuam` | — | pleased |
+| `sing` | — | tree/good |
+
+**Compound:** `nuam` (pleased) + `sing` (good) = "pleased-good" = delightful
+
+**Source:** Worship songs — `Nuamsing a hi ve hi.` (It is delightful.)
+
+---
+
+### 41. lamdang (Wonderful)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `lam` | — | path/way |
+| `dang` | — | extraordinary |
+
+**Compound:** `lam` (path) + `dang` (extraordinary) = "extraordinary path" = wonderful
+
+**Source:** Worship songs — `Lamdang a hi ve hi.` (It is wonderful.)
+
+---
+
+### 42. phatna (Praise)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `phat` | — | praise |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `phat` (praise) + `-na` (abstract) = "praise" (noun)
+
+**Source:** Worship songs — `Phatna un kip ve un!` (Let us gather with praise!)
+
+---
+
+### 43. biakna (Worship)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `biak` | — | worship/pray |
+| `-na` | suffix | abstract noun |
+
+**Compound:** `biak` (worship) + `-na` (abstract) = "worship" (noun)
+
+**Source:** Worship songs — `Biakna sungah ki kip ve un.` (Let us gather in worship.)
+
+---
+
+### 44. lungsim (Sentiment)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `lung` | — | heart |
+| `sim` | — | mind/think |
+
+**Compound:** `lung` (heart) + `sim` (mind) = "heart-mind" = sentiment/feeling
+
+**Source:** Worship songs — `Lungsim laakna hi ta hi.` (Sentiment is here.)
+
+---
+
+### 45. sungsang (Exalted)
+
+| Component | Morpheme | Meaning |
+|-----------|----------|---------|
+| `sung` | — | inside |
+| `sang` | — | high |
+
+**Compound:** `sung` (inside) + `sang` (high) = "inside-high" = exalted
+
+**Source:** Worship songs — `Topa sungsang a hi ve hi.` (The Lord is exalted.)
+
+---
+
 ## Component Morpheme Index (Updated)
 
 | Morpheme | Meaning | Appears In |
 |----------|---------|------------|
 | `lai` | book/text/document | laisiangtho, laibu, laimai, lai dal |
-| `siang` | clean/holy/pure | laisiangtho, siangpi, siangtho |
+| `siang` | clean/holy/pure | laisiangtho, siangpi, siangtho, khasiangtho |
 | `van` | sky | vantung |
 | `le` | land | lebung, leitung |
 | `tui` | water | tuipi |
@@ -402,11 +602,11 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 | `pi` | big/great | khuapi, tuipi, siangpi |
 | `bung` | big/large | lebung, leitung |
 | `tung` | top/above | vantung |
-| `lung` | heart | lungdam, lungsim |
+| `lung` | heart | lungdam, lungsim, lungnopna, lungmuanna |
 | `dam` | well/sound | lungdam |
-| `biak` | worship/pray | biakinn |
+| `biak` | worship/pray | biakinn, biakna |
 | `inn` | house/building | biakinn |
-| `lam` | path/way | lamthak |
+| `lam` | path/way | lamthak, singlamteh, lamdang |
 | `thak` | new | lamthak |
 | `sim` | mind/think | lungsim |
 | `bul` | base/root | bulphuh |
@@ -422,6 +622,25 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 | `tahna` | place/abode | pattahna |
 | `deih` | want/wish | deih sakna |
 | `sakna` | state/condition | deih sakna |
+| `sing` | tree | singlamteh |
+| `teh` | upright/standing | singlamteh |
+| `hot` | save | hotkhiatna |
+| `khiat` | free/escape | hotkhiatna |
+| `heh` | give | hehpihna |
+| `pih` | give | hehpihna |
+| `thu` | word/matter | thumaan, thupha |
+| `maan` | multiply | thumaan |
+| `pha` | flow/pour | thupha |
+| `kan` | we/us | kangaih |
+| `gaih` | endure/bear | kangaih |
+| `nop` | happy/glad | nopna, lungnopna |
+| `muan` | heavy/sad | lungmuanna |
+| `nuam` | pleased | nuamsing |
+| `dang` | extraordinary | lamdang |
+| `phat` | praise | phatna |
+| `kha` | spirit | khasiangtho |
+| `sung` | inside | sungsang |
+| `sang` | high | sungsang |
 
 ## Notes
 
@@ -433,5 +652,8 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 - **`-na` suffix** — creates abstract nouns from verbs (e.g., `laam` → `laamna`).
 - All compound words follow ZVS 2018 orthography.
 - New compounds (21-30) extracted from biography of Pu Tual Khaw Mang.
+- New compounds (31-45) extracted from 987 Zolai worship songs.
 - See also: `grammar/core_grammar_reference.md` for morphology rules.
 - See also: `grammar/biography_analysis_tual_khaw_mang.md` for full analysis.
+- See also: `grammar/song_hymn_analysis.md` for song language analysis.
+- See also: `vocabulary/song_vocabulary.md` for song vocabulary reference.
