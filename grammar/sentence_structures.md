@@ -32,13 +32,13 @@ Pasian om hi.
 **Example 2: Transitive**
 
 ```
-Ka gam mu hi.
+Gam ka mu hi.
 ```
 
 | Word | Gloss | Function |
 |------|-------|----------|
-| Ka | 1SG.AGR | Subject agreement |
 | gam | land | Direct object |
+| ka | 1SG.AGR | Subject agreement |
 | mu | see | Verb |
 | hi | DECL | Declarative particle |
 
@@ -86,7 +86,7 @@ Pasian in amaute thupha a pia hi.
 | Template | Example | Translation |
 |----------|---------|-------------|
 | S + V | `Pasian om hi.` | God exists. |
-| S + O + V | `Ka gam mu hi.` | I see the land. |
+| O + A + V | `Gam ka mu hi.` | I see the land. |
 | S + IO + DO + V | `Pasian in amaute thupha a pia hi.` | God gave them blessings. |
 | S + V (neg) | `Ka pai kei hi.` | I don't go. |
 | S + V + Q | `Na pai hiam?` | Do you go? |
@@ -260,7 +260,7 @@ The quotative particle `ci` introduces or closes direct speech:
 | :--- | :--- | :--- |
 | **V + nading** | `An nek nading` | In order to eat food |
 | **V + ding + in** | `A uk dingin bawl hi.` | He made [it] in order to rule. *(GEN 1:16)* |
-| **V + theih + nading** | `A theihna dingin mipa kiangah paipih hi.` | Brought to the man so he could know. *(GEN 2:19)* |
+| **V + theih + nading** | `Mipa kiangah a theihna dingin paipih hi.` | Brought to the man so he could know. *(GEN 2:19)* |
 
 ---
 
