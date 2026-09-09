@@ -50,7 +50,7 @@ This wordlist is derived from the Bible corpus (31,102 verses) and dictionary da
 | 8 | `ni` | day, sun | 1,475 |
 | 9 | `biakna` | religion | 1,445 |
 | 10 | `pa` | Father | 1,345 |
-| 11 | `kumpi` | king | 1,259 |
+| 11 | `kumpi` | king (kumpi inn = palace) | 1,259 |
 | 12 | `khuapi` | town | 1,157 |
 | 13 | `theihna` | literacy | 1,087 |
 | 14 | `siangtho` | Holy, Clean | 998 |
