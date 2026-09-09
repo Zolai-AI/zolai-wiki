@@ -142,3 +142,102 @@ These are used when you want to emphasize the subject or make it explicit:
 
 ## Last Updated
 2026-09-07
+
+
+## 11. Modern Grammar Patterns (From Contemporary Zolai Texts)
+
+### Compound Verbs (Modern Usage)
+Modern Zolai creates compound verbs by combining base verbs with prefixes/suffixes:
+
+| Base | Compound | Meaning | Example |
+|------|----------|---------|---------|
+| hawm | hawmkhia | print + publish | "Laisiangtho hawmkhia ding" (will publish Bible) |
+| hawm | hawmnuam | print + want | "Ahawmnuam a om" (wants to print) |
+| hawm | hawmngei | print + completed | "Hawmngei khin a" (has been published) |
+| bawl | hongbawl | make + toward | "Thu hongbawl sawm" (want to make law) |
+| thei | kithei | know + reflexive | "Kithei nailo" (cannot know) |
+| siam | kisiam | know + reflexive | "Kisiam thei" (can know) |
+| en | lah | look + open | "En lah hawmkhia" (publish openly) |
+| gen | honggen | say + toward | "Hong gen uh ciangun" (when they say) |
+
+### Emphatic Particles (Modern Usage)
+| Particle | Function | Example | Translation |
+|----------|----------|---------|-------------|
+| mahmah | emphatic (very) | "angtanpih mahmah" | very congratulatory |
+| bel | focus (only) | "bek tawh" | only with |
+| lel | emphasis | "nawngkai lel e" | oh friends |
+| dah | emphasis | "pia nawn dah ni" | please give again |
+| cisim | polite request | "cisim ing" | please |
+
+### Quotative Markers (Modern Usage)
+| Marker | Function | Example | Translation |
+|--------|----------|---------|-------------|
+| cih | quotative | "hawmkhia ding cih thu" | the matter that will publish |
+| ci | quotative (short) | "ciangun" | when saying |
+| ci-a | quotative (past) | "gen ci-a" | having said |
+
+### Possessive Patterns (Modern Usage)
+| Pattern | Function | Example | Translation |
+|---------|----------|---------|-------------|
+| te'n | plural possessive | "Zomi te'n" | Zomi people's |
+| ih | 1st person plural possessive | "ih angtanpih" | we celebrate |
+| i | 1st person plural | "i laimai" | our book |
+| heh lamte' | 3rd person plural possessive | "Aheh lamte' muhna" | Their negative view |
+| lungdamlamte' | 3rd person plural possessive | "Alungdamte' muhna" | Their positive view |
+
+### Question Patterns (Modern Usage)
+| Pattern | Function | Example | Translation |
+|---------|----------|---------|-------------|
+| hiam | yes/no question | "Hehhuai Hiam?" | Are you concerned? |
+| diam | future question | "aphal uh diam?" | will you permit? |
+| bang dia | content question | "Bang dia...?" | What is it that...? |
+| cih | embedded question | "kithei nailo hi" | cannot know |
+
+### Conjunction Patterns (Modern Usage)
+| Pattern | Function | Example | Translation |
+|---------|----------|---------|-------------|
+| leh | and | "lasak leh laphuah" | translation and printing |
+| tawh | with | "Bible Society leh ZCLS tawh" | with Bible Society and ZCLS |
+| tua hang in | therefore | "Tua hang in..." | Therefore... |
+| ahih man in | because | "ahih man in guktakna" | because of that, necessity |
+| thusialua | therefore | "Thusialua..." | Therefore... |
+| leng | if/when | "leng lungsim hoih" | if heart is good |
+
+### Sentence Templates (Modern Usage)
+| Template | Example | Translation |
+|----------|---------|-------------|
+| [Subject] + in + [N] + [N] + hi | "Zomi te'n ih angtanpih mahmah ahi" | Zomi people very congratulatory |
+| [Subject] + [V] + ding + uh + hi | "ahawm ding uh hi" | will print |
+| [N] + [PP] + [V] + ding + hi | "Bible Society te' phalna omlopi in hawm ding hilo hi" | Bible Society permission sufficient in print will not |
+| [Subject] + [V] + hiam + cih + [V] | "bu tul bangzah hawm ding hiam cih" | how many copies print will that |
+
+### Negation Patterns (Modern Usage)
+| Pattern | Function | Example | Translation |
+|---------|----------|---------|-------------|
+| kei | negation (all persons) | "ka zak kei hi" | I did not receive |
+| lo | negation (3rd person) | "omlo hi" | is not |
+| thei kei | cannot | "kithei nailo" | cannot know |
+| hiaulo | cannot | "nai hiaulo" | cannot already |
+| hetlo | cannot | "hoih hetlo ding" | will not be good |
+| khollo | cannot | "khollo zaw hi" | cannot anymore |
+
+### Tense Patterns (Modern Usage)
+| Pattern | Function | Example | Translation |
+|---------|----------|---------|-------------|
+| ding | future | "hawmkhia ding" | will publish |
+| ciangin | past/temporal | "ciangun" | when (temporal) |
+| hi | present | "ahi hi" | is |
+| lai | progressive | "om lai hi" | is existing |
+| ta | completive | "khit ta hi" | has finished |
+| nai | already | "nai hiaulo" | cannot already |
+
+## Source References
+1. Paumkim Zomi Guide - Particles & Word Structure
+2. Zolai Grammar Vol 1 (Book)
+3. Bible patterns (31,102 verses)
+4. Online grammar resources
+5. Modern Zolai texts (2026) - Contemporary articles and discussions
+6. Native speaker corrections - Verified vocabulary and grammar
+
+## Last Updated
+2026-09-09 (Added modern grammar patterns from contemporary texts)

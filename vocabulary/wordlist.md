@@ -181,10 +181,10 @@ This wordlist is derived from the Bible corpus (31,102 verses) and dictionary da
 | `khe` | foot, leg | 187 |
 | `singkuang` | neck | 212 |
 | `lu` | head | 193 |
-| `mit` | Eye | 206 |
+| `mit` | eye (body part) | 182 |
 | `bil` | Ear | 102 |
 | `lak` | skin, hide | 526 |
-| `nak` | Nose | 133 |
+| `nak` | nose (body part) | 67 |
 | `kam` | Mouth | 293 |
 | `vun` | skin | 147 |
 | `sam` | hair | 310 |
@@ -234,3 +234,305 @@ This wordlist is derived from the Bible corpus (31,102 verses) and dictionary da
 - `data/bible/language_learning/vocab_master.jsonl` — Frequency data from Bible corpus
 - Bible corpus: 31,102 parallel verses (ZO↔EN)
 - Dictionary data: 93,931 ZO→EN entries
+
+
+---
+
+## 11. Modern Vocabulary (From Contemporary Zolai Texts)
+
+These words are from modern Zolai usage (2026), showing how the language is used in contemporary contexts like publishing, law, and community discussions.
+
+### Publishing & Media
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `hawm` | print, copy | Publishing |
+| `hawmkhia` | print, publish | Publishing |
+| `hawmna` | printing, publication | Publishing |
+| `hawmngei` | printed, published | Publishing |
+| `hawmte` | printed ones, publications | Publishing |
+| `hawmkhiat` | printed, published | Publishing |
+| `hawmnuam` | want to print | Publishing |
+| `kahawm` | print | Publishing |
+| `laphuah` | printing, publisher | Publishing |
+| `lasak` | translator, interpreter | Publishing |
+| `laisiangtho` | Bible, scripture | Publishing |
+| `akhawnkhong` | publish, distribute | Publishing |
+| `laibu` | book | Publishing |
+| `seal` | stamp, mark | Publishing |
+
+### Law & Government
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `thukhun` | law, rule | Legal |
+| `phalna` | permission, license | Legal |
+| `copyright` | copyright | Legal (loanword) |
+| `guktakna` | necessity, requirement | Legal |
+| `zakdah` | limit, boundary | Legal |
+| `ukna` | authority, power | Legal |
+| `galkap` | soldier, military | Legal |
+| `kumpi` | king, ruler | Legal |
+
+### Business & Economics
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `sum` | money, cost | Economic |
+| `ngahna` | income, profit | Economic |
+| `kazuak` | sell | Economic |
+| `akisem` | sell, trading | Economic |
+| `kipelh` | spend, invest | Economic |
+| `kicihtak` | calculate, compute | Economic |
+
+### Communication & Discussion
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `muhna` | view, opinion | Discussion |
+| `dotna` | question, issue | Discussion |
+| `dotnop` | question, inquiry | Discussion |
+| `etna` | question, inquiry | Discussion |
+| `thuman` | justice, righteousness | Discussion |
+| `thutang` | truth, reality | Discussion |
+| `ki-en` | consider, examine | Discussion |
+| `kuppih` | think, consider | Discussion |
+| `khinkhian` | think, consider | Discussion |
+
+### Descriptions & Adjectives
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `hehhuai` | concerned, worried | Emotion |
+| `lungdam` | happy, glad | Emotion |
+| `himawhna` | happy, glad | Emotion |
+| `kasa` | heavy, serious | Description |
+| `lauhuai` | very bad, terrible | Description |
+| `hoih` | good, well | Description |
+| `samlo` | difficult, hard | Description |
+| `viknop` | careful, cautious | Description |
+| `kiza` | true, real | Description |
+| `veuveu` | small, little | Description |
+
+### Actions & Verbs
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `angtanpih` | celebrate, congratulate | Action |
+| `siam` | know, able to | Action |
+| `phot` | share, divide | Action |
+| `palsat` | disclose, reveal | Action |
+| `kidal` | oppose, resist | Action |
+| `kholh` | open, reveal | Action |
+| `akisuang` | change, transform | Action |
+| `laih` | change, transform | Action |
+| `lehthuak` | change, transform | Action |
+| `hanciam` | improve, develop | Action |
+| `vasai` | continue, persist | Action |
+| `nawknawk` | struggle, strive | Action |
+| `dawtdawt` | choose, select | Action |
+| `akigumh` | gather, collect | Action |
+| `nawhtat` | remove, take off | Action |
+| `ngaidam` | please forgive | Action |
+
+### People & Roles
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `sangpi` | senior, elder | Role |
+| `makaih` | pastor, leader | Role |
+| `thunei` | author, writer | Role |
+| `thuneuno` | writer, author | Role |
+| `nawngkai` | friend, companion | Role |
+
+### Places & Things
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `biakinn` | church building | Place |
+| `paizia` | situation, condition | Abstract |
+| `gamtatna` | work, action | Abstract |
+| `piakkhiatna` | gift, offering | Abstract |
+| `adeihna` | meaning, significance | Abstract |
+| `lamzah` | language, tongue | Abstract |
+| `lung` | mind, heart | Abstract |
+
+### Grammar Particles (Modern Usage)
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `mahmah` | very, really, truly (emphatic) | Particle |
+| `bel` | only, just (focus particle) | Particle |
+| `cih` | that (quotative marker) | Particle |
+| `diam` | will you? (yes/no question) | Particle |
+| `te'n` | their (plural possessive) | Particle |
+| `ih` | our (1st person plural possessive) | Particle |
+| `lel` | particle (emphasis) | Particle |
+| `dah` | particle (emphasis) | Particle |
+| `cisim` | please, kindly | Particle |
+
+### Conjunctions & Connectors
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `thusialua` | therefore | Conjunction |
+| `tua hang in` | therefore, in that case | Conjunction |
+| `ahih man in` | because of that, therefore | Conjunction |
+| `leng` | if, when | Conjunction |
+
+### Adverbs
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `tutung` | now, currently | Time |
+| `tampi` | a lot, much | Degree |
+| `gegu` | exactly, precisely | Degree |
+| `adiak` | especially | Degree |
+| `ziau` | only, just | Degree |
+| `tangzaw` | more, further | Degree |
+| `zaw` | more, further | Degree |
+| `zawk` | more, further | Degree |
+| `nai` | already | Time |
+| `sekei` | not yet, still | Time |
+| `tapeuh` | always, continually | Time |
+| `tapeuhun` | always, continually | Time |
+| `theilo` | not able, cannot | Ability |
+| `khollo` | cannot, unable | Ability |
+| `hiaulo` | cannot, unable | Ability |
+| `hetlo` | cannot, unable | Ability |
+| `thumaan` | carefully, thoroughly | Manner |
+
+### Pronouns (Modern Usage)
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `ei` | we, us | Pronoun |
+
+### Other Modern Words
+
+| Word | Translation | Context |
+| :--- | :--- | :--- |
+| `teng` | until, up to | Postposition |
+| `kul` | must, should | Auxiliary |
+| `omlopi` | abundantly, sufficiently | Adverb |
+| `kiho` | united, together | Adjective |
+| `peelmawh` | enough, sufficient | Adjective |
+| `tading` | reason, cause | Noun |
+| `kizangh` | use, utilize | Verb |
+| `hongbawl` | make, create | Verb |
+| `sawm` | want, intend | Verb |
+| `pawlpi` | group, organization | Noun |
+| `peuhmah` | all, every | Determiner |
+| `au` | all, every | Determiner |
+| `buang` | alone, only | Adjective |
+| `tam` | much, many | Adverb |
+| `zom` | fit, match | Verb |
+| `khawng` | place, area | Noun |
+| `Genkhialh` | mistake, error | Noun |
+| `hawmna` | printing, publication | Noun |
+| `nawhtat` | remove, take off | Verb |
+
+---
+
+## 12. Key Phrases (Modern Zolai)
+
+| Phrase | Translation | Context |
+| :--- | :--- | :--- |
+| `Hehhuai Hiam?` | Are you concerned? | Question |
+| `Lungdam Huai Hiam?` | Are you happy? | Question |
+| `angtanpih mahmah` | very congratulatory | Expression |
+| `lasak leh laphuah siam` | knows translation and printing | Description |
+| `hawmkhia ding cih thu` | the matter of publishing | Noun phrase |
+| `ka zak hi` | I received/heard | Expression |
+| `hawmngei khin a` | has been published | Passive |
+| `bu tul bangzah` | how many copies | Question |
+| `kithei nailo` | cannot know | Expression |
+| `hoih asaklohna` | criticism, negative review | Noun |
+| `muhna tawm ka gen nuam` | I am happy to share my opinion | Expression |
+| `phalna omlopi` | sufficient permission | Noun phrase |
+| `kiho phot` | united and sharing | Expression |
+| `copyright thu palsat` | disclose copyright | Verb phrase |
+| `sum ngahna` | income, profit | Noun |
+| `zum kong mang kong` | building foundation | Idiom |
+| `kalsuan ding` | will use | Verb phrase |
+| `akisem thei gegu` | exactly sellable | Expression |
+| `en lah hawmkhia` | publish openly | Verb phrase |
+| `ahawmkhia zozo` | will continue publishing | Verb phrase |
+| `tulai nuntak haksat` | current life difficult | Expression |
+| `vanmanh kah` | sky and earth expensive (very expensive) | Idiom |
+| `kizeel tektek` | very valuable | Expression |
+| `hoih tektek` | very good | Expression |
+| `amawkna kipia` | profit was given | Passive |
+| `sum le pai thu omlo` | money and resources exist | Expression |
+| `thuman takin ki-en` | consider carefully | Verb phrase |
+| `aheh sawmna dingin` | for wanting to discuss | Purpose |
+| `thuman leh thutang` | justice and truth | Noun phrase |
+| `ki-enna dingin` | for examining | Purpose |
+| `ka dotnop` | my question | Noun phrase |
+| `zenzen in` | really, truly | Emphasis |
+| `kuppih uh hi` | they are thinking | Progressive |
+| `aphal uh diam` | will you permit? | Question |
+| `ahawmnuam a om` | wants to publish | Expression |
+| `hopih masalo` | not yet decided | Expression |
+| `hongci le uh` | if you say | Conditional |
+| `napia uh diam` | will you give? | Question |
+| `seal kitum` | stamp is applied | Passive |
+| `kha khat in` | with one breath (eagerly) | Idiom |
+| `piaksawn hi` | gives generously | Expression |
+| `Not for sale` | Not for sale | Label |
+| `Limited within the church` | Limited within the church | Label |
+| `azat himai in um` | only that is used | Expression |
+| `kizangh deuh hi` | is commonly used | Expression |
+| `galkap kumpi' ukna` | military government authority | Noun phrase |
+| `adeihna pen` | the meaning is | Expression |
+| `thu hongbawl sawm` | want to make law | Verb phrase |
+| `pawlpi sung bek` | only within organization | Expression |
+| `kahawm uh hi` | they print | Verb phrase |
+| `peelmawh ding` | should be enough | Expression |
+| `lai hawmna` | publishing industry | Noun |
+| `lauhuai` | very bad, terrible | Adjective |
+| `kidal kholhna` | resistance, opposition | Noun |
+| `akisuang ahi` | has changed | Expression |
+| `thukhun pen` | the law is | Expression |
+| `phalna ngah khit ciang` | after getting permission | Time |
+| `thoh theipan` | able to write | Ability |
+| `hard copy khat` | one hard copy | Noun phrase |
+| `akipia ziau` | just given | Expression |
+| `zakdah luat ding` | limiting | Verb phrase |
+| `kimat kihen` | connected and followed | Expression |
+| `thu kibawl ding` | law will be made | Future |
+| `viknop khinkhian` | carefully think | Verb phrase |
+| `lehthuak khak` | change completely | Verb phrase |
+| `hanciam ding` | will improve | Future |
+| `thunung thumate` | those three topics | Noun phrase |
+| `nawnlohna ding` | for not happening again | Purpose |
+| `lung himawhna` | happy heart | Noun phrase |
+| `apiakhiate pen` | what is given | Expression |
+| `lamzah khawng` | language area | Noun phrase |
+| `gen au au hang` | say repeatedly | Expression |
+| `piakkhiatna kiza` | true gift | Noun phrase |
+| `nai hiaulo` | cannot already | Expression |
+| `nawngkai lel e` | oh friends | Vocative |
+| `pia nawn dah ni` | please give again | Request |
+| `akigumh veuveu` | gathered a little | Expression |
+| `dawtdawt peuh` | selected all | Expression |
+| `hoih hetlo ding` | will not be good | Future |
+| `Pasian' Thu` | God's Word | Noun phrase |
+| `ngah theihna ding` | for being able to get | Purpose |
+| `lungdam huai` | very happy | Expression |
+| `hoihna sepna` | good work | Noun phrase |
+| `ki zom ding` | will match | Future |
+| `thumaan takin` | carefully | Adverb |
+| `dotna om nawnlohna` | for questions not to exist again | Purpose |
+| `Genkhialh a om leh` | if there are mistakes | Conditional |
+| `ngaidam` | please forgive | Request |
+
+---
+
+## Sources
+
+- `data/bible/language_learning/vocab_master.jsonl` — Frequency data from Bible corpus
+- Bible corpus: 31,102 parallel verses (ZO↔EN)
+- Dictionary data: 93,931 ZO→EN entries
+- Modern Zolai texts: Contemporary articles and discussions (2026)
+- Native speaker corrections: Verified vocabulary and grammar
