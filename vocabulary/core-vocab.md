@@ -157,7 +157,7 @@ These are the most essential words for learning Zolai, organized by category wit
 | `hih` | this | `Hih mi` | This man |
 | `bang` | what | `Bang hiam?` | What? |
 | `lo` | not | `Ka pai lo.` | I don't go. |
-| `si` | negation | `Amah pasal si.` | He is not a man. |
+| `si` | die, dead (verb) | `Khazih a si hi.` | Christ died. |
 | `kei` | don't (prohibitive) | `Pai kei.` | Don't go! |
 
 ---

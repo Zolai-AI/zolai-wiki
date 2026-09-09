@@ -29,7 +29,7 @@
 
 ### `i/ei` vs `uh`
 - `i/ei` = we (1st person plural inclusive) — NEVER combine with `uh`
-- `uh` = they/you-all (3rd or 2nd plural) — only for others
+- `uh` = plural marker (NOT "they" pronoun). 21,992 occurrences.
 - **RULE: `I pai hi` ✅ — `I pai uhhi` ❌ (STRICTLY FORBIDDEN)**
 
 ### `in` vs `un`

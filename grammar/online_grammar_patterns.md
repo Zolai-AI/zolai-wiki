@@ -111,7 +111,7 @@ These go before the verb and mark the person of the subject:
 - **na** = 2nd person singular agreement marker (you)
 - **a** = 3rd person singular agreement marker (he/she/it)
 - **i** = 1st person plural agreement marker (we)
-- **uh** = 3rd person plural agreement marker (they)
+- **uh** = plural marker (NOT "they" pronoun). 21,992 occurrences.
 
 ### Standalone Pronouns (used for emphasis or explicit reference)
 These are used when you want to emphasize the subject or make it explicit:

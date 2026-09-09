@@ -181,7 +181,7 @@ Zolai uses pre-nominal relative clauses:
 | :--- | :--- | :--- |
 | **kei** | General negation (1st/2nd person) | `Ka pai kei hi.` (I don't go.) |
 | **lo** | General negation (3rd person) | `Amah pai lo hi.` (He doesn't go.) |
-| **si** | Negative copula | `Amah pasal si.` (He is not a man.) |
+| **si** | verb (die/dead) | `Khazih a si hi.` (Christ died.) |
 | **ken** | Strong prohibitive | `Pai ken.` (Do not go!) |
 | **neilo** | Have not | `Ka nei lo.` (I don't have.) |
 
