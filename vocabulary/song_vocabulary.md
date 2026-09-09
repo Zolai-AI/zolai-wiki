@@ -166,7 +166,7 @@ This reference catalogues vocabulary found in Zolai worship song lyrics, organiz
 | `kha` | spirit | khasiangtho |
 | `van` | sky | vantung |
 | `tung` | top/above | vantung |
-| `le` | land | leitung |
+| `lei` | ground/clay/land | leitung |
 | `bung` | big/large | leitung |
 | `tui` | water | tuipi |
 | `pi` | big/great | tuipi, khuapi |
