@@ -13,6 +13,85 @@ Zolai is strictly **SOV** (Subject–Object–Verb). The verb always comes last.
 | S + O + V (past) | `Pasian in leitung a piangsak hi.` | God created the earth. | GEN 1:1 |
 | S + IO + DO + V | `Pasian in amaute thupha a pia hi.` | God gave them blessings. | GEN 1:28 |
 
+### Word-by-Word Analysis: SOV Examples
+
+**Example 1: Intransitive**
+
+```
+Pasian om hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| Pasian | God | Subject (proper noun) |
+| om | exist | Verb |
+| hi | DECL | Declarative particle |
+
+**Translation:** "God exists."
+
+**Example 2: Transitive**
+
+```
+Ka gam mu hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| Ka | 1SG.AGR | Subject agreement |
+| gam | land | Direct object |
+| mu | see | Verb |
+| hi | DECL | Declarative particle |
+
+**Translation:** "I see the land."
+
+**Example 3: Ergative Construction**
+
+```
+Pasian in vantung leh lebung a piangsak hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| Pasian | God | Subject (agent) |
+| in | ERG | Ergative marker |
+| vantung | heaven | Object 1 |
+| leh | and | Conjunction |
+| lebung | earth | Object 2 |
+| a | 3SG.AGR | Agreement marker |
+| piangsak | create | Verb |
+| hi | DECL | Declarative particle |
+
+**Translation:** "God created the heaven and earth."
+
+**Example 4: Indirect Object**
+
+```
+Pasian in amaute thupha a pia hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| Pasian | God | Subject (agent) |
+| in | ERG | Ergative marker |
+| amaute | them | Indirect object |
+| thupha | blessing | Direct object |
+| a | 3SG.AGR | Agreement marker |
+| pia | give | Verb |
+| hi | DECL | Declarative particle |
+
+**Translation:** "God gave them blessings."
+
+### Sentence Templates
+
+| Template | Example | Translation |
+|----------|---------|-------------|
+| S + V | `Pasian om hi.` | God exists. |
+| S + O + V | `Ka gam mu hi.` | I see the land. |
+| S + IO + DO + V | `Pasian in amaute thupha a pia hi.` | God gave them blessings. |
+| S + V (neg) | `Ka pai kei hi.` | I don't go. |
+| S + V + Q | `Na pai hiam?` | Do you go? |
+| S + V + FUT | `Ka pai ding hi.` | I will go. |
+
 ---
 
 ## 2. Tense Constructions

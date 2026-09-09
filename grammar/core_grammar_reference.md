@@ -35,6 +35,82 @@ In informal speech, subject pronouns are dropped when the agreement marker makes
 - `A ki mu hi.` = He saw himself.
 - `A nih ki mu hi.` = They two saw each other.
 
+### Word-by-Word Analysis: Agreement Markers
+
+**`ka` (1st person singular):**
+
+```
+Ka pai hi.          I go.
+Ka pa              My father (possession)
+Ka inn             My house
+Ka it mahmah hi.   I love very much.
+```
+
+| Example | Breakdown |
+|---------|-----------|
+| `Ka pai hi.` | ka=1SG.AGR + pai=go + hi=DECL |
+| `Ka pa` | ka=1SG.AGR + pa=father (possessive use) |
+| `Ka inn` | ka=1SG.AGR + inn=house (possessive use) |
+| `Ka it mahmah hi.` | ka=1SG.AGR + it=love + mahmah=very + hi=DECL |
+
+**`na` (2nd person singular):**
+
+```
+Na pai hi.          You go.
+Na pa              Your father
+Na min kua na hiam?  What is your name?
+```
+
+| Example | Breakdown |
+|---------|-----------|
+| `Na pai hi.` | na=2SG.AGR + pai=go + hi=DECL |
+| `Na pa` | na=2SG.AGR + pa=father (possessive use) |
+| `Na min kua na hiam?` | na=2SG.AGR + min=name + kua=what + na=2SG + hiam=Q |
+
+**`a` (3rd person singular — multi-function):**
+
+```
+A pai hi.           He/she goes.        [subject]
+A pa               His/her father       [possession]
+A hoih hi.         It is good.          [predicate]
+Atung              On top / above       [position prefix]
+Asang              High / tall          [adjective prefix]
+```
+
+| Example | Breakdown |
+|---------|-----------|
+| `A pai hi.` | a=3SG.AGR + pai=go + hi=DECL |
+| `A pa` | a=3SG.AGR + pa=father (possessive use) |
+| `A hoih hi.` | a=3SG.AGR + hoih=good + hi=DECL |
+
+**`i` (1st person inclusive plural):**
+
+```
+I pai hi.           We (all) go.
+I ne ding.          We will eat.
+```
+
+| Example | Breakdown |
+|---------|-----------|
+| `I pai hi.` | i=1PL.INCL + pai=go + hi=DECL |
+| `I ne ding.` | i=1PL.INCL + ne=eat + ding=FUT |
+
+⚠️ NEVER: `I pai-te hi.` — WRONG (uh + i = forbidden)
+
+**`uh` (3rd person plural marker):**
+
+```
+A pai-te hi.        They go.
+A ne-te hi.         They eat.
+```
+
+| Example | Breakdown |
+|---------|-----------|
+| `A pai-te hi.` | a=3PL.AGR + pai=go + te=PL + hi=DECL |
+| `A ne-te hi.` | a=3PL.AGR + ne=eat + te=PL + hi=DECL |
+
+⚠️ Only for 3rd person — NEVER with i/ei
+
 ---
 
 ## 2. Agreement Markers — Detailed Usage

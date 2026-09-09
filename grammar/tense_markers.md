@@ -14,6 +14,49 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 | **Future** | **ding** | `A pai ding hi.` | He will go. |
 | **Future Perfect** | **khinzo ding** | `A pai khinzo ding hi.` | He will have gone. |
 
+### Word-by-Word Analysis: Tense Examples
+
+**Present:**
+```
+A pai hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| A | 3SG.AGR | Subject agreement |
+| pai | go | Verb stem |
+| hi | DECL | Declarative particle |
+
+**Translation:** "He goes."
+
+**Future:**
+```
+Ka pai ding hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| Ka | 1SG.AGR | Subject agreement |
+| pai | go | Verb stem |
+| ding | FUT | Future aspect marker |
+| hi | DECL | Declarative particle |
+
+**Translation:** "I will go."
+
+**Present Perfect:**
+```
+A pai khinzo hi.
+```
+
+| Word | Gloss | Function |
+|------|-------|----------|
+| A | 3SG.AGR | Subject agreement |
+| pai | go | Verb stem |
+| khinzo | PRF+CMPL | Present perfect (khin + zo) |
+| hi | DECL | Declarative particle |
+
+**Translation:** "He has already gone."
+
 ---
 
 ## 2. Aspect Markers
