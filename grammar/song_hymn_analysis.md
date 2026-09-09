@@ -328,7 +328,7 @@ Songs contain a rich emotional lexicon:
 | Word | Meaning | Usage |
 |------|---------|-------|
 | `vantung` | heaven | Metaphor for divine realm |
-| `lebung` | earth | Physical world, human domain |
+| `leitung` | earth | Physical world, human domain |
 | `khuamial` | darkness | Sin, ignorance |
 | `khuavak` | light | Truth, salvation |
 | `sing` | tree | Life, growth, stability |
@@ -614,7 +614,7 @@ Cu mi leh naupangte kia hi.
 **After (ZVS 2018):**
 ```
 Pasian in gam bawl ta hi,
-Topa in lebung siangsak ta hi;
+Topa in leitung siangsak ta hi;
 Kumpipa in mi phat ve hi,
 Tua mi leh naupangte kia hi.
 ```

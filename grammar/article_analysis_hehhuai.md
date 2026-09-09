@@ -22,7 +22,7 @@ Hih lai nih in a um hi. Lai nih in a hong hiam hi. Lai nih in a hong lak hi. Lai
 
 Ka cih hi. Ka kei hi. Ka hiam hi. Ka lungdam hi. Ka hehhuai hi. Ka huai hi.
 
-Pasian in leitung a piangsak hi. Pasian in vantung leh lebung a piangsak hi. Pasian in mi hong piangsak hi. Pasian in mi a pia hi.
+Pasian in leitung a piangsak hi. Pasian in vantung leh leitung a piangsak hi. Pasian in mi hong piangsak hi. Pasian in mi a pia hi.
 
 Ka mi hi. Ka Zomi hi. Ka Tedim hi. Ka Zolai hi.
 
@@ -68,7 +68,7 @@ Hehhuai hiam? Lungdam huai hiam? Ka cih hi. Ka kei hi. Ka hiam hi. Ka lungdam hi
 | 16 | Ka hehhuai hi. | ka hehhuai hi | 1SG happy DECL. / I am happy. |
 | 17 | Ka huai hi. | ka huai hi | 1SG Q DECL. / I am [questioned]. |
 | 18 | Pasian in leitung a piangsak hi. | pasian in leitung a piangsak hi | God ERG earth 3SG.AGR create DECL. / God created the earth. |
-| 19 | Pasian in vantung leh lebung a piangsak hi. | pasian in vantung leh lebung a piangsak hi | God ERG heaven and earth 3SG.AGR create DECL. / God created heaven and earth. |
+| 19 | Pasian in vantung leh leitung a piangsak hi. | pasian in vantung leh leitung a piangsak hi | God ERG heaven and earth 3SG.AGR create DECL. / God created heaven and earth. |
 | 20 | Pasian in mi hong piangsak hi. | pasian in mi hong piangsak hi | God ERG person PRFV create DECL. / God has created people. |
 | 21 | Pasian in mi a pia hi. | pasian in mi a pia hi | God ERG person 3SG.AGR give DECL. / God gave people. |
 | 22 | Ka mi hi. | ka mi hi | 1SG person DECL. / I am a person. |
@@ -135,7 +135,7 @@ Hehhuai hiam? Lungdam huai hiam? Ka cih hi. Ka kei hi. Ka hiam hi. Ka lungdam hi
 Every sentence follows Subject–Object–Verb:
 
 ```
-Pasian in vantung leh lebung a piangsak hi.
+Pasian in vantung leh leitung a piangsak hi.
 [God] [ERG] [heaven] [and] [earth] [3SG.AGR] [create] [DECL]
 ```
 
@@ -260,7 +260,7 @@ This article uses **reflective prose** with:
 2. **Short sentences**: 3-6 words per sentence (conversational register)
 3. **Rhetorical questions**: Questions answered immediately with "Kei hi"
 4. **Identity enumeration**: "Ka mi hi. Ka Zomi hi. Ka Tedim hi."
-5. **Biblical echo**: "Pasian in vantung leh lebung a piangsak hi" mirrors GEN 1:1
+5. **Biblical echo**: "Pasian in vantung leh leitung a piangsak hi" mirrors GEN 1:1
 6. **Modern particles**: Uses `mahmah`, `cih`, `bel` for contemporary voice
 7. **Emotional arc**: Moves from doubt ("Hehhuai hiam? Kei hi.") to affirmation ("Ka hehhuai hi.")
 
