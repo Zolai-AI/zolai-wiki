@@ -35,10 +35,10 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 
 | Component | Morpheme | Meaning |
 |-----------|----------|---------|
-| `le` | — | land |
+| `lei` | — | ground/clay/land |
 | `bung` | — | big/large |
 
-**Compound:** `le` (land) + `bung` (big) = "big land" = earth
+**Compound:** `lei` (ground/clay/land) + `tung` (above/top) = "big land" = earth
 
 ---
 
@@ -127,10 +127,10 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 
 | Component | Morpheme | Meaning |
 |-----------|----------|---------|
-| `le` | — | land |
+| `lei` | — | ground/clay/land |
 | `bung` | — | big/large |
 
-**Compound:** `le` (land) + `bung` (big) = "big land" = earth
+**Compound:** `lei` (ground/clay/land) + `tung` (above/top) = "big land" = earth
 
 **Note:** Variant spelling of `leitung`
 
@@ -242,7 +242,7 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 | `lai` | book/text/document | laisiangtho, laibu, laimai, lai dal |
 | `siang` | clean/holy/pure | laisiangtho, siangpi, siangtho |
 | `van` | sky | vantung |
-| `le` | land | leitung, leitung |
+| `lei` | ground/clay/land | leitung, leitung |
 | `tui` | water | tuipi |
 | `khua` | village/home | khuapi |
 | `mi` | person | mihing, minam, mipa |
@@ -593,7 +593,7 @@ Zolai compound words are formed by combining two or more free morphemes. This re
 | `lai` | book/text/document | laisiangtho, laibu, laimai, lai dal |
 | `siang` | clean/holy/pure | laisiangtho, siangpi, siangtho, khasiangtho |
 | `van` | sky | vantung |
-| `le` | land | leitung, leitung |
+| `lei` | ground/clay/land | leitung, leitung |
 | `tui` | water | tuipi |
 | `khua` | village/home | khuapi |
 | `mi` | person | mihing, minam, mipa |
