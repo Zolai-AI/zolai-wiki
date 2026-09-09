@@ -32,7 +32,7 @@ Many Zolai words carry **multiple meanings** depending on context. This document
 | Meaning | Example |
 | :--- | :--- |
 | death | `Sihna si.` (Death.) |
-| negation | `Amah pasal si.` (He is not a man.) |
+| verb (die/dead) | `Khazih a si hi.` (Christ died.) |
 | count/calculate | `Suan si.` (Count.) |
 | number | `Si khat` (Number one) |
 

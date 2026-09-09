@@ -16,7 +16,7 @@ Zolai uses **agreement prefixes** on verbs (not pronouns) to mark person.
 | 3rd singular | `a` | `a pai hi` | he/she/it goes |
 | 1st plural | `i` | `i pai hi` | we go |
 | 2nd plural | `na...uh` | `na pai-te hi` | you (all) go |
-| 3rd plural | `a...uh` | `a pai-te hi` | they go |
+| 3rd plural | `a...uh` | `a pai uh hi` | they go (plural marker) |
 
 **Critical rule:** `uh` = plural agreement marker for 2nd and 3rd person plural. NEVER use `uh` with `i` (1st plural).
 
@@ -28,12 +28,12 @@ Zolai uses **agreement prefixes** on verbs (not pronouns) to mark person.
 
 | Form | Count | Meaning |
 |---|---|---|
-| `ding uh` | 3,551 | they/you will... |
-| `ci uh` | 666 | they/you said |
-| `ahi uh` | 583 | they/you are |
-| `hi uh` | 549 | they/you (statement) |
-| `pai uh` | 375 | they/you went |
-| `om uh` | 283 | they/you are/exist |
+| `ding uh` | 3,551 | they will... (plural) |
+| `ci uh` | 666 | they said (plural) |
+| `ahi uh` | 583 | they are (plural) |
+| `hi uh` | 549 | they (statement, plural) |
+| `pai uh` | 375 | they went (plural) |
+| `om uh` | 283 | they exist (plural) |
 | `gen uh` | 185 | they/you said/spoke |
 | `bawl uh` | 164 | they/you did |
 | `thei uh` | 151 | they/you can/know |
