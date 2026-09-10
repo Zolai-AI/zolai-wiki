@@ -273,7 +273,7 @@ Hampha lua hi hang.
 
 **Translation:** "It is greatly important indeed."
 
-**Note:** This uses `hang` (indeem) not `diam`, creating affirmation rather than challenge.
+**Note:** This uses `hang` (indeed) not `diam`, creating affirmation rather than challenge.
 
 ---
 

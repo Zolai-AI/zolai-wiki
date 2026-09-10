@@ -67,7 +67,7 @@ Advanced negation is not just `lo`. ZVS distinguishes carefully:
 - **Inability (Cannot):** `...zokei` (e.g., `Pai zokei`).
 - **Discontinuance (No longer):** `...nawnlo` (e.g., `Pai nawnlo`).
 - **Refusal (Will not):** `...keng` (e.g., `Pai keng`).
-- **Simple present negative:** `...lo` (3rd person general: `A pai lo hi`).
+- **Simple present negative:** `...lo` (general: `Pai lo hi`).
 
 ---
 > **Last updated: 2026-04-20** — Header updated with ISO code; negation section corrected to reflect ZVS `kei` conditional rule (removed incorrect `ken` form).

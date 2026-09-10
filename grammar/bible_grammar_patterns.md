@@ -154,7 +154,7 @@
 |---------|-------|--------|
 | I don't go | `Ka pai kei hi` | 1st |
 | You don't go | `Na pai kei hi` | 2nd |
-| He doesn't go | `A pai lo hi` | 3rd |
+| He doesn't go | `Pai lo hi` | 3rd (lo is standalone — no 'a' agreement) |
 | He doesn't go | `A pai kei hi` | 3rd (alternative) |
 
 ---
@@ -221,7 +221,7 @@
 | Do you go? | `Na pai hiam?` | V + question |
 | Will you eat? | `Na ne diam?` | V + future question |
 | Will you go? | `Na pai diam?` | V + future question |
-| Why do you go? | `Bang hang na pai hiam?` | why + V + question |
+| Why do you go? | `Bang hang pai na hiam?` | verb before subject (correct order) |
 | What do you eat? | `Bang na ne hiam?` | what + V + question |
 
 ---

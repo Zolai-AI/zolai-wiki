@@ -3846,7 +3846,7 @@ Zolai uses specific particles to negate different temporal states.
   - `Ka pai kei ding hi.` (I will not go.)
   - `A thei kei hi.` (He does not know.)
 - **`lo` (Simple Negation)**: Used for past or emphatic refusal.
-  - `A pai lo hi.` (He did not go.)
+  - `Pai lo hi.` (He did not go.) — lo is standalone, no 'a' agreement
 - **`nai lo` (Not yet)**: Negates a completed aspect that is expected to happen.
   - `A pai nai lo hi.` (He has not gone yet.)
 - **`nawn lo` (No longer)**: Negates an ongoing state or habit.
