@@ -18,7 +18,8 @@
 - Declarative: `Pai lo hi.` = Goes not. (3rd person, `lo` is standalone — no `a`)
 - `Hoih lo hi.` = It is not good.
 - **`lo` is NOT Hakha-only** — it is valid Tedim ZVS in non-conditional contexts.
-- **⚠️ `lo` does NOT take `a` agreement:** ❌ `A pai lo hi.` → ✅ `Pai lo hi.`
+- **⚠️ `lo` does NOT take `a` agreement marker:** ❌ `A pai lo hi.` (a=agreement) → ✅ `Pai lo hi.`
+- **✅ BUT `A` as standalone pronoun "he/she/it" IS correct with `lo`:** `Amah tua lai ah a pai lo hi leh` = "If he does not go there" (a = pronoun "he", not agreement marker)
 
 ### `kei lo` — Compound absolute negation ("none / not any")
 - `Pasian dang kei lo-te hen.` = You shall have no other gods. (Ten Commandments)
