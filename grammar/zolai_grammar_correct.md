@@ -154,7 +154,8 @@
 |---------|-------|--------|
 | I don't go | `Ka pai kei hi` | 1st |
 | You don't go | `Na pai kei hi` | 2nd |
-| He doesn't go | `Pai lo hi` | 3rd (`lo` standalone) |
+| He doesn't go | `Pai lo hi` | 3rd (`lo` standalone, no agreement) |
+| He doesn't go | `A pai lo hi` | 3rd (a = pronoun "he", not agreement — CORRECT) |
 | He doesn't go | `A pai kei hi` | 3rd (alternative) |
 
 ---
