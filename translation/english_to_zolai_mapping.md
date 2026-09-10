@@ -41,10 +41,10 @@ This document provides a systematic mapping of English grammatical structures to
 
 | English "Not" | Subject | Zolai Marker | Example |
 | :--- | :--- | :--- | :--- |
-| **I do not...** | 1st Person | `... lo` | Ka pai lo hi. |
+| **I do not...** | 1st Person | `... kei` | Ka pai kei hi. |
 | **I refuse / will not** | 1st Person (volitional) | `... keng` | Ka pai keng. |
 | **You do not...** | 2nd Person | `... kei` | Na pai kei hi. |
-| **He does not...** | 3rd Person | `... lo` | A pai lo hi. |
+| **He does not...** | 3rd Person | `... lo` | Pai lo hi. |
 | **Don't!** | Imperative | `... kei in` | Pai kei in. |
 | **Unless you...** | Conditional (2nd person) | `nong ... kei a leh` | Nong pai kei a leh... |
 

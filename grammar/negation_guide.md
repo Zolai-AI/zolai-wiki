@@ -11,13 +11,14 @@
 - Future: `Ka pai kei ding hi.` = I will not go.
 - Ability: `Ka sem thei kei hi.` = I cannot do it.
 - **Conditionals — ONLY `kei`:** `Nong pai kei a leh...` = If you don't go...
-  - ❌ NEVER: `Nong pai kei a leh...`
+  - ❌ NEVER: `Nong pai lo a leh...` (don't use `lo` in conditionals)
 
 ### `lo` — Valid ZVS negation, common in 3rd person
-- Past/state: `Amah dam lo hi.` = He/she is not well.
-- Declarative: `A pai lo hi.` = He did not go.
-- `A hoih lo hi.` = It is not good.
+- Past/state: `Dam lo hi.` = He/she is not well.
+- Declarative: `Pai lo hi.` = Goes not. (3rd person, `lo` is standalone — no `a`)
+- `Hoih lo hi.` = It is not good.
 - **`lo` is NOT Hakha-only** — it is valid Tedim ZVS in non-conditional contexts.
+- **⚠️ `lo` does NOT take `a` agreement:** ❌ `A pai lo hi.` → ✅ `Pai lo hi.`
 
 ### `kei lo` — Compound absolute negation ("none / not any")
 - `Pasian dang kei lo-te hen.` = You shall have no other gods. (Ten Commandments)
@@ -52,7 +53,7 @@
 | Pattern | Meaning | Example |
 |---|---|---|
 | `[v] kei hi` | present/habitual neg | `A thei kei hi.` = He does not know. |
-| `[v] lo hi` | past/state neg | `A pai lo hi.` = He did not go. |
+| `[v] lo hi` | past/state neg | `Pai lo hi.` = Goes not. (3rd person, `lo` standalone) |
 | `[v] kei ding hi` | future neg | `Ka pai kei ding hi.` = I will not go. |
 | `[v] kei a leh` | conditional neg | `Nong pai kei a leh` = If you don't go |
 | `[v] nawn kei` | will not again | `A gen nawn kei hi.` = He will not say again. |

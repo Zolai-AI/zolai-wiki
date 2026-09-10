@@ -100,8 +100,8 @@ SOV (Subject-Object-Verb):
   - Na pai hiam? (Did you go?)
 - **Future questions**: Use "diam"
   - Na pai diam? (Will you go?)
-- **Content questions**: Use "bang hang"
-  - Bang hang na pai hiam? (Why do you go?)
+- **Content questions**: Use "bang hang" + verb + subject + "hiam"
+  - Bang hang pai na hiam? (Why do you go?)
 
 ## 9. Pronoun Agreement
 
