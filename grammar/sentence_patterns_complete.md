@@ -1,4 +1,5 @@
 # Zolai Sentence Patterns from Zomidaily Corpus
+> Last updated: 2026-09-10
 
 **Source:** 12,966 zomidaily articles (8.7M words)
 

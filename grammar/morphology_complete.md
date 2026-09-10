@@ -1,4 +1,5 @@
 # Complete Zolai Morphology Reference
+> Last updated: 2026-09-10
 
 > Comprehensive reference for word formation in Tedim Zolai.
 > Sources: Zolai Gelhmaan Vol. 1, Zolai Khanggui, Zolai Sinna Bu, ZVS 2018, zomidaily corpus (511K sentences), Bible corpus (31K verses).

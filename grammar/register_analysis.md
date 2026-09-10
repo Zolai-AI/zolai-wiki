@@ -1,4 +1,5 @@
 # Zolai Register Analysis — Complete Guide
+> Last updated: 2026-09-10
 
 > How formality, context, and relationship shape language choice in Tedim Zolai.
 > Sources: ZVS 2018, Zolai Khanggui, Zolai Sinna Bu, zomidaily corpus, Bible corpus, article analyses, worship songs.

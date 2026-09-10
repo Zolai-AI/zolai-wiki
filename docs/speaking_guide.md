@@ -1,4 +1,5 @@
 # Zolai Speaking Guide
+> Last updated: 2026-09-10
 
 > Practical guide for speaking Zolai (Tedim): pronunciation, daily phrases, greetings,
 > conversations, formal vs informal speech, and common mistakes.

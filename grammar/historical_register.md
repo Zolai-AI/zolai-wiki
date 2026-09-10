@@ -1,4 +1,5 @@
 # Historical Register — Formal Narrative Patterns
+> Last updated: 2026-09-10
 
 > Reference for formal historical narrative patterns in Zolai, drawn from "Tedim Lai Siangtho Tangthu Tom."
 > Source: zolai-wiki/grammar/article_analysis_tangthu.md

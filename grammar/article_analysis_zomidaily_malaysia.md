@@ -1,4 +1,5 @@
 # Article Analysis: "ZAM Thupuak :: 06 November 2016" (Malaysia/Refugee News)
+> Last updated: 2026-09-10
 
 ## Metadata
 

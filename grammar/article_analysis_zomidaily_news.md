@@ -1,4 +1,5 @@
 # Article Analysis: "Australia ah Laimi khat migilo te’n a mawtaw suhsak"
+> Last updated: 2026-09-10
 
 ## Metadata
 

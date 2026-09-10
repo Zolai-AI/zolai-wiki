@@ -1,4 +1,5 @@
 # Date Constructions — Time Expressions in Zolai
+> Last updated: 2026-09-10
 
 > Reference for how dates and time are expressed in Zolai, drawn from "Tedim Lai Siangtho Tangthu Tom."
 > Source: zolai-wiki/grammar/article_analysis_tangthu.md

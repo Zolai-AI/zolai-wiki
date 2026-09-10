@@ -1,4 +1,5 @@
 # Passive Constructions — Voice Patterns in Zolai
+> Last updated: 2026-09-10
 
 > Reference for passive voice patterns in Zolai, drawn from "Tedim Lai Siangtho Tangthu Tom."
 > Source: zolai-wiki/grammar/article_analysis_tangthu.md

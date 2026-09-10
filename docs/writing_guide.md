@@ -1,4 +1,5 @@
 # Zolai Writing Guide
+> Last updated: 2026-09-10
 
 > Practical guide for writing Zolai (Tedim): sentence construction, paragraph structure,
 > formal vs informal, letter writing, essay writing, and ZVS 2018 compliance.

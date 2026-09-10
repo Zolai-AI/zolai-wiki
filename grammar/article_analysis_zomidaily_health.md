@@ -1,4 +1,5 @@
 # Article Analysis: "Khat leh khat ki khual na in cidam na" (Health/Psychology)
+> Last updated: 2026-09-10
 
 ## Metadata
 

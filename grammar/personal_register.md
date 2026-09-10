@@ -1,4 +1,5 @@
 # Personal Register — Informal/Emotional Patterns
+> Last updated: 2026-09-10
 
 > Reference for informal/personal register patterns in Zolai, drawn from "Tedim Lai Siangtho Tangthu Tom" postscript section.
 > Source: zolai-wiki/grammar/article_analysis_tangthu.md
