@@ -1,4 +1,5 @@
 # Course 15: Kimawl-bulphuh Laisinna (Play-based Learning) — Knowledge Extraction
+> Last updated: 2026-09-10
 # Source: Myanmar Teacher Platform, Zolai version
 # URL: https://mmteacherplatform.net/en/e-learning/courses/kimawl-bulphuh-laisinna-course-15-zolai-the-language-of-zomi
 # Full text: resources/course15_play_based_learning_zolai.md

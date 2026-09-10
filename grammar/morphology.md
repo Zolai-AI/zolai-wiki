@@ -1,4 +1,5 @@
 # Zolai Morphology — Word Formation Patterns
+> Last updated: 2026-09-10
 
 Word formation in Zolai (Tedim) follows systematic patterns documented in *Zolai Gelhmaan Vol. 1* (Taang Zomi, 2010). The language uses suffixes, prefixes, reduplication, and compounding to build vocabulary from root forms.
 

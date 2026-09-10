@@ -1,4 +1,5 @@
 # Zolai AI — Master Generation Prompts for Google Gemini
+> Last updated: 2026-09-10
 > Paste these directly into Gemini (with Zolai Ai notebook loaded).
 > Each prompt generates structured output ready to copy/export.
 

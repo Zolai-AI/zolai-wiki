@@ -1,4 +1,5 @@
 # Extended Lexicon (Sorted alphabetically)
+> Last updated: 2026-09-10
 
 Extracted from the Tedim Bible and Standard Format citations.
 

@@ -1,4 +1,5 @@
 # Zolai Grammar Patterns from Online Resources
+> Last updated: 2026-09-10
 
 ## Overview
 This document contains grammar patterns extracted from online resources including:

@@ -1,4 +1,5 @@
 # Theological Lexicon: Comparative Bible Lexicon
+> Last updated: 2026-09-10
 
 Linguistic mapping for Biblical terms in Zolai, comparing traditional Tedim (1932/1977) with the Modern Zokam Standard.
 

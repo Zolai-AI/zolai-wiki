@@ -1,4 +1,5 @@
 # Ergative Marker: The Particle "in"
+> Last updated: 2026-09-10
 
 In Zolai (Tedim), the particle **"in"** is the ergative marker. It is required to identify the subject (agent) of a **transitive verb** (a verb that takes an object).
 

@@ -1,4 +1,5 @@
 # Biblical Sentence Patterns — Extracted from ZVS Corpus
+> Last updated: 2026-09-10
 
 Patterns extracted from Genesis, Exodus, and the full ZVS 2018 parallel corpus.
 These are real, attested examples — not constructed examples.

@@ -1,4 +1,5 @@
 # Advanced Syntax: Relative Clauses and Complex Conditionals
+> Last updated: 2026-09-10
 
 Linguistic rules for complex sentence structures in Zolai (Tedim), based on the 2018 Zokam Standard Format and analyzed parallel corpora.
 

@@ -1,4 +1,5 @@
 # Zolai Grammar Patterns - Extracted from Corpus
+> Last updated: 2026-09-10
 
 **Generated:** 2026-04-22T21:33:17.405064
 **Sources:** Zolai Gelhmaan Bu, Zolai Grammar Reference, Zolai Standard Format Reference

@@ -1,4 +1,5 @@
 # Zolai Wordlist — Top 1,000 Most Frequent Words
+> Last updated: 2026-09-10
 
 This wordlist is derived from the Bible corpus (31,102 verses) and dictionary data. Words are ranked by frequency and grouped by category.
 

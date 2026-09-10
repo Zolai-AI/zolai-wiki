@@ -1,4 +1,5 @@
 # Biblical Linguistic Patterns in Zolai: Hebraisms and Hellenisms
+> Last updated: 2026-09-10
 
 Analysis of Zolai Bible translation (Zokam Standard Version) for preserved linguistic features from source languages.
 

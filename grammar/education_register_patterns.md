@@ -1,4 +1,5 @@
 # Education Register Patterns — Learned from Course 15 (Play-based Learning)
+> Last updated: 2026-09-10
 # Source: resources/course15_play_based_learning_zolai.md
 
 ## New Grammar Patterns

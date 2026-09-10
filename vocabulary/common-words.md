@@ -1,4 +1,5 @@
 # Core Vocabulary (Zolai Standard Format 2018)
+> Last updated: 2026-09-10
 
 Based on the Zolai Standard Format (LT Tuang, 2018), common lexical entries are standardized to prevent ambiguity in translation and literature.
 

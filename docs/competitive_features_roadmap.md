@@ -1,4 +1,5 @@
 # Zolai Features Roadmap
+> Last updated: 2026-09-10
 > Based on competitive audit of zomi.me and zomidictionary.app (2026-04-14)
 > Reference: `artifacts/competitive_audit_report.md`
 

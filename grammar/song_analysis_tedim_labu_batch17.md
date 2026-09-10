@@ -1,4 +1,5 @@
 # Tedim Labu Songs 321–340 — Analysis Batch 17
+> Last updated: 2026-09-10
 
 **Songs analyzed:** TDM 321–340 (20 songs)
 **Total lines:** ~460

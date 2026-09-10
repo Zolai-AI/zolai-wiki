@@ -1,4 +1,5 @@
 # Learned from: zolai_ai_instructions.md:600-1118
+> Last updated: 2026-09-10
 
 ## Vocabulary
 

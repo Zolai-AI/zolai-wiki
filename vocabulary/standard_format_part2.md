@@ -1,4 +1,5 @@
 # Learned from: Zolai_Standard_Format.md:1200-1600
+> Last updated: 2026-09-10
 
 ## Vocabulary
 

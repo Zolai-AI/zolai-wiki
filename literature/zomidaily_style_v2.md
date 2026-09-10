@@ -1,4 +1,5 @@
 # ZomiDaily Register (Sawltak Style)
+> Last updated: 2026-09-10
 
 ## Overview
 The **ZomiDaily (ZD)** style is the standard modern news register for the Zolai-speaking community. It differs from formal biblical prose by its use of "Messenger" (*Sawltak*) markers and evidentiary language.

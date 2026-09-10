@@ -1,4 +1,5 @@
 # Zolai Particle Index (Unified Reference)
+> Last updated: 2026-09-10
 
 Zolai (Tedim) is a particle-heavy language. Most grammatical relationships (plurality, tense, focus, direction, result) are handled by particles added after the verb or noun.
 

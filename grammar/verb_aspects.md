@@ -1,4 +1,5 @@
 # Verb Aspects (Temporal Particle System)
+> Last updated: 2026-09-10
 
 In Zolai (Tedim), verb tense and aspect are primarily indicated by **post-verbal particles** rather than through conjugation (though stem changes occur in certain environments).
 

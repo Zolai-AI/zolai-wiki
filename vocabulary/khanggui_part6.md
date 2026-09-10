@@ -1,4 +1,5 @@
 # Learned from: Zolai_Khanggui_AD_1899_AD_2013.md:5500-7306
+> Last updated: 2026-09-10
 
 ## Vocabulary
 

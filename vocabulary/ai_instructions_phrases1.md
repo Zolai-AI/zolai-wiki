@@ -1,4 +1,5 @@
 # Phrases & Patterns from: zolai_ai_instructions.md:0-600
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

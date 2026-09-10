@@ -1,4 +1,5 @@
 # Everyday Nature & Anatomy
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 Educational materials, particularly the *Zolai Sinbu* (Zolai Readers for early grades), ground vocabulary in the immediate environment. The fundamental vocabulary for beginners consists of local flora, fauna, and human anatomy.

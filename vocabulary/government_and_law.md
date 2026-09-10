@@ -1,4 +1,5 @@
 # Government, Law & Administration (Kumpi, Thukham le Vaihawmna)
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 Zolai vocabulary for governance and law reflects a combination of traditional tribal authority, biblical terms for kingship, and modern state administration. The word `Kumpi` historically meant "King" but is now universally used for the "Government" or "State."

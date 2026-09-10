@@ -1,4 +1,5 @@
 # Healthcare & Medicine (Cidamna le Zato thu)
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 Zolai vocabulary for health and medicine combines traditional terms for wellness and bodily states with modern administrative terms for medical infrastructure. Health (`Cidamna`) is literally "body-well/healthy."

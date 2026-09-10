@@ -1,4 +1,5 @@
 # Expanded Knowledge — Gentehna Tuamtuam & Zolai Khanggui
+> Last updated: 2026-09-10
 # Sources:
 #   resources/Gentehna_Tuamtuam_le_A_Deihnate.md (LT Tuang, 2019) — Fables & Morals
 #   resources/Zolai_Khanggui_AD_1899_AD_2013.md (LT Tuang, 2013) — Zolai History

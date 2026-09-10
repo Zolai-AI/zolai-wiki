@@ -1,4 +1,5 @@
 # Learned from: Gentehna_Tuamtuam_le_A_Deihnate.md:500-850
+> Last updated: 2026-09-10
 
 ## Vocabulary
 

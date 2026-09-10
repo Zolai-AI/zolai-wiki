@@ -1,4 +1,5 @@
 # Zolai Poetry, Songs & Literary Forms
+> Last updated: 2026-09-10
 
 This document catalogs the poetic and musical traditions of the Zomi people, extracted from *Zolai Sinna Bu*, *Zolai Khanggui*, and the Biblical corpus (particularly Psalms, Proverbs, and Song of Solomon).
 

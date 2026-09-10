@@ -1,4 +1,5 @@
 # Cultural Traditions: Khuado (Zolai Tedim)
+> Last updated: 2026-09-10
 
 Based on the analysis of traditional "Nunnop Khuado" texts, Zolai Tedim culture is rich in agricultural and community festivals.
 

@@ -1,4 +1,5 @@
 # Education & Academics (Siamsinna le Lai lam thu)
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 The Zomi have placed immense value on education since the introduction of the written script. The vocabulary for academics is formal and highly respected, often using the roots `Sia` (Teacher/Expert) and `Lai` (Letter/Book/Knowledge).

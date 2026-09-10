@@ -1,4 +1,5 @@
 # Zolai Linguistic Mandate (Zolai Standard)
+> Last updated: 2026-09-10
 
 This document outlines the strict linguistic rules for Tedim Zolai as enforced by the AI system.
 

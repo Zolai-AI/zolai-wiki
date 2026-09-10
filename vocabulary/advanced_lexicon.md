@@ -1,4 +1,5 @@
 # Advanced Lexicon: Formal and Domain-Specific Word Pairs
+> Last updated: 2026-09-10
 
 This mapping differentiates between colloquial and formal Zolai words to provide contextually accurate translations.
 

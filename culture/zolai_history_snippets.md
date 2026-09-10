@@ -1,4 +1,5 @@
 # Zolai History & Lineage (Khanggui) Patterns
+> Last updated: 2026-09-10
 
 Extracted from the master corpus for AI cultural grounding.
 

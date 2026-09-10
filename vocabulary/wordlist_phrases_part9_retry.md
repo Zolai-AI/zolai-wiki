@@ -1,4 +1,5 @@
 # Phrases & Patterns from: zolai_word_list.txt:7000-9000
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

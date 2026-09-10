@@ -1,4 +1,5 @@
 # Article Analysis: "Hehhuai Hiam? Lungdam Huai Hiam?"
+> Last updated: 2026-09-10
 
 ## Metadata
 

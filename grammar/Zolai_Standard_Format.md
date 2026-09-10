@@ -1,4 +1,5 @@
 Zolai Standard Format
+> Last updated: 2026-09-10
 Minambup Zolai gelhzia a kibatkim theih nading
 
 Pa Lian Than Tuang (LT Tuang)

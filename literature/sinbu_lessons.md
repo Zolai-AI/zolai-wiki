@@ -1,4 +1,5 @@
 # Zolai Sinbu Lessons (Pedagogical Curriculum)
+> Last updated: 2026-09-10
 
 This document provides a structured breakdown of the **Zolai Sinna (Sinbu)** curriculum, the standard educational foundation for Zolai (Tedim) literacy. Extracted from *Zolai Sinna Bu* (Lessons 1–34).
 

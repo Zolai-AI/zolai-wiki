@@ -1,4 +1,5 @@
 # Zolai Syntax — Sentence Structure
+> Last updated: 2026-09-10
 
 Zolai (Tedim) follows **SOV (Subject-Object-Verb)** word order as its basic syntactic pattern. This document covers clause structure, subordination, coordination, relative clauses, and question formation.
 

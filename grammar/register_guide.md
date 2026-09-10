@@ -1,4 +1,5 @@
 # Zolai Register Guide: Formal vs. Informal
+> Last updated: 2026-09-10
 
 Zolai (Tedim) distinguishes between formal (biblical, academic, public speech) and informal (daily conversation, colloquial) registers. Using the correct register is crucial for native-level fluency.
 

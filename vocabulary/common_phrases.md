@@ -1,4 +1,5 @@
 # Common Tedim Phrases & Conversational Patterns
+> Last updated: 2026-09-10
 
 Standard phrases for greetings, small talk, and daily interaction in Tedim (Zolai). These are categorized by context to help learners navigate real-world situations.
 

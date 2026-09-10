@@ -1,4 +1,5 @@
 # Proverbs, Wisdom & Moral Sayings
+> Last updated: 2026-09-10
 
 A collection of proverbial wisdom (Kammalhoih) and moral maxims extracted from *Zolai Khanggui*, *Gentehna Tuamtuam*, Biblical Proverbs, and Zomi oral tradition.
 

@@ -1,4 +1,5 @@
 # Historical Origins of the Zomi People & Zolai Language
+> Last updated: 2026-09-10
 
 This document traces the origins, migration history, and linguistic development of the Zomi people and their written language, compiled from *Zolai Khanggui (AD 1899–2013)*, *Zolai Sinna Bu*, and oral historical traditions.
 

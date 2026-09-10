@@ -1,4 +1,5 @@
 # Ngaih Aw, Ka Copyright Hong Hi In
+> Last updated: 2026-09-10
 
 > **Title:** Ngaih Aw, Ka Copyright Hong Hi In (Think, My Copyright Is Coming)
 > **Genre:** Editorial / Ethical Essay / Devotional Prose

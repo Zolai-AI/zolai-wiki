@@ -1,4 +1,5 @@
 # Business, Marketing & Strategy
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 Zolai possesses a rich vocabulary for traditional agriculture and basic trade, but the modern domains of Marketing, Business Strategy, and Economics require the adaptation of older terms to new, broader concepts.

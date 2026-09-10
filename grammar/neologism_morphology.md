@@ -1,4 +1,5 @@
 # Neologism Morphology: Forming New Words
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 Zolai is highly agglutinative, heavily relying on suffixes and compounding to form new nouns, verbs, and abstract concepts out of simpler roots. The language adapts to modern concepts by building "descriptive" neologisms (new words) using specific structural patterns.

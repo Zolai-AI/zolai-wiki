@@ -1,4 +1,5 @@
 # Zolai Phonology & Orthography
+> Last updated: 2026-09-10
 
 This document covers the complete linguistic structure of the Zolai (Tedim) sound system, encompassing the full phonemic inventory, orthographic conventions, phonetic restrictions, and apostrophe logic. Sourced from *Zolai Sinna Bu*, *Zolai Gelhmaan Bu*, and *Zolai Khanggui (AD 1899–2013)*.
 

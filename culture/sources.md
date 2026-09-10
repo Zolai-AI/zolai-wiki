@@ -1,4 +1,5 @@
 # Zolai Data Sources (The Foundation)
+> Last updated: 2026-09-10
 
 This document provides a comprehensive overview of the datasets and reference materials that constitute the Zolai AI "Second Brain." Our corpus consists of **2,059,401 entries** across 23 primary sources.
 

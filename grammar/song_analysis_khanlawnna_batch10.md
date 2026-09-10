@@ -1,4 +1,5 @@
 # Khanlawnna Late — Songs 181–202 Analysis (Batch 10 — FINAL)
+> Last updated: 2026-09-10
 
 > 22 songs from the Khanlawnna Late collection (final batch). All examples follow ZVS 2018 orthography.
 > New vocabulary per song is noted; themes and word-by-word glossing for key lines provided.
