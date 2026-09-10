@@ -1,4 +1,5 @@
 # Zolai Sermon Register (Biakna / Hanthotna)
+> Last updated: 2026-09-10
 
 This document outlines the formal linguistic patterns and "Lung-Kha" metaphors used in Zolai sermons and religious exhortations (*Hanthotna*).
 

@@ -1,4 +1,5 @@
 # General Knowledge and Vocabulary (English-Zolai Expansion)
+> Last updated: 2026-09-10
 
 This document maps general knowledge concepts, technical terms, and historical/scientific vocabulary from English to Zolai (Tedim).
 

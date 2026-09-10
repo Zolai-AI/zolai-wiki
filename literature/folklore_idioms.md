@@ -1,4 +1,5 @@
 # Zolai Folklore Idioms & Parables
+> Last updated: 2026-09-10
 
 Extracted from *Gentehna Tuamtuam le A Deihnate* by Pa Lian Than Tuang.
 

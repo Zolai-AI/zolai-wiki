@@ -1,4 +1,5 @@
 # Article Analysis: Kawlgam aa Zomite
+> Last updated: 2026-09-10
 
 ## Metadata
 

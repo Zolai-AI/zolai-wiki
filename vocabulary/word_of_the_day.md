@@ -1,4 +1,5 @@
 # Zolai Word of the Day: Deep Dives
+> Last updated: 2026-09-10
 
 This document explores key Zolai (Tedim) words, their etymology, and their multi-layered meanings.
 

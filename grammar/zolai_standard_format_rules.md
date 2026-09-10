@@ -1,4 +1,5 @@
 # Zolai Standard Format — Critical Rules
+> Last updated: 2026-09-10
 # Source: resources/Zolai_Standard_Format.md (LT Tuang, 2018)
 # These are AUTHORITATIVE rules — use over any auto-generated assumptions
 

@@ -1,4 +1,5 @@
 # Tense, Aspect & Mood Markers
+> Last updated: 2026-09-10
 
 Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense, aspect, and mood. This document provides the complete inventory extracted from the ZVS Bible, Sinna exercises, and Khanggui grammar notes.
 

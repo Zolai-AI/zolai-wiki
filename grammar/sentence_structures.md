@@ -1,4 +1,5 @@
 # Zolai Sentence Structures — A Complete Reference
+> Last updated: 2026-09-10
 
 This document catalogs every major sentence pattern in the Zolai (Tedim) language, from basic SOV to advanced embedded clauses. All examples are drawn from authentic sources: Bible (ZVS 2018), Zolai Sinna, Gentehna Tuamtuam, and Zolai Khanggui.
 

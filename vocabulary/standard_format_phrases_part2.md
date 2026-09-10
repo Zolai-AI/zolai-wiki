@@ -1,4 +1,5 @@
 # Phrases & Patterns from: Zolai_Standard_Format.md:200-600
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

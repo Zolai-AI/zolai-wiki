@@ -1,4 +1,5 @@
 # Phrases & Patterns from: zo_tdm_professional_lexicon_v1.md:0-20
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

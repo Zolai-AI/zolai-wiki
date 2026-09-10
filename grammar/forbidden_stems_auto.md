@@ -1,4 +1,5 @@
 # Auto-Generated: Forbidden Stem I Nominalizations
+> Last updated: 2026-09-10
 
 This table is automatically synced from the `check_stems.py` auditor.
 

@@ -1,4 +1,5 @@
 # Wiki ↔ Dictionary Reconciliation
+> Last updated: 2026-09-10
 
 Reproducible audit reconciling `wiki/vocabulary` against the processed dictionary
 and generated wordlists. **Read-only** — never edits data.

@@ -1,4 +1,5 @@
 # Tones and Phonology (Awsaang)
+> Last updated: 2026-09-10
 
 Tedim Zolai is a **tonal language**. The ZVS (Zokam Standard Version) and ZCLS standards recognize a practical system of pitch and length.
 

@@ -1,4 +1,5 @@
 # Tedim Labu Songs 101-120 Analysis (Batch 6)
+> Last updated: 2026-09-10
 
 Compact analysis of 20 Zolai hymns from the Tedim Labu collection.
 All examples use ZVS 2018 orthography.

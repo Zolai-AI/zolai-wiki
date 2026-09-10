@@ -1,4 +1,5 @@
 # Tedim Labu Songs 201-220 Analysis — Batch 11
+> Last updated: 2026-09-10
 
 ## Overview
 Compact analysis of 20 Tedim Labu hymns (TDM 201-220). Each song includes:

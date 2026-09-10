@@ -1,4 +1,5 @@
 # Extended Everyday Vocabulary
+> Last updated: 2026-09-10
 ## Concept / Rule
 While our core vocabulary covers fundamental concepts, theology, and nature, everyday conversational fluency requires a broader set of practical words. These words cover household items, daily actions, food, and common states of being. They are essential for communicating daily needs, describing routines, and engaging in casual interactions.
 

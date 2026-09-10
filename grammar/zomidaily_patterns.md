@@ -1,4 +1,5 @@
 # Zolai Daily Grammar Patterns
+> Last updated: 2026-09-10
 
 ## Overview
 

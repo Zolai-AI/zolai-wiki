@@ -1,4 +1,5 @@
 # Zolai Number System
+> Last updated: 2026-09-10
 
 Zolai (Tedim) uses a base-10 number system. Numbers follow a consistent pattern for tens, hundreds, and thousands.
 

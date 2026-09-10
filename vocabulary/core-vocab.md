@@ -1,4 +1,5 @@
 # Zolai Core Vocabulary — Top 500 Essential Words for Beginners
+> Last updated: 2026-09-10
 
 These are the most essential words for learning Zolai, organized by category with simple definitions and example sentences from the Bible corpus.
 

@@ -1,4 +1,5 @@
 # Gentehna: Idioms and Metaphors
+> Last updated: 2026-09-10
 
 Zolai relies heavily on idioms (`Gentehna`) and metaphorical narratives to convey complex moral, philosophical, and social lessons. These are rooted in nature, domestic life, and spiritual journeys.
 

@@ -1,4 +1,5 @@
 # Zolai Pronoun Guide: Personal, Possessive, and Agreement
+> Last updated: 2026-09-10
 
 Zolai (Tedim) uses a system of free pronouns and mandatory pronominal agreement markers (prefixes).
 

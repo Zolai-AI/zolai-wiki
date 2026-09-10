@@ -1,4 +1,5 @@
 # Article Analysis: "LTTuang" (Interview with Moses)
+> Last updated: 2026-09-10
 
 ## Metadata
 

@@ -1,4 +1,5 @@
 # Common AI Mistakes (Zolai Tedim)
+> Last updated: 2026-09-10
 
 Avoid these common mistakes when generating Zolai Tedim.
 

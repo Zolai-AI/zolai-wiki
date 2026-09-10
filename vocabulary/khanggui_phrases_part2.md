@@ -1,4 +1,5 @@
 # Phrases & Patterns from: Zolai_Khanggui_AD_1899_AD_2013.md:0-500
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

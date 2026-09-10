@@ -1,4 +1,5 @@
 # Verb Stem Mapping (Stem I vs Stem II)
+> Last updated: 2026-09-10
 
 Zolai (Tedim) verbs often change their form depending on the syntactic environment (e.g., affirmative vs. negative, independent vs. subordinate clauses).
 

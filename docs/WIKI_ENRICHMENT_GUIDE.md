@@ -1,4 +1,5 @@
 # Zolai Wiki Enrichment Guide
+> Last updated: 2026-09-10
 
 > Operational guide for the current pillar: **update and improve the wiki**.
 > Active branch `main`. The wiki (`wiki/`, 1529 files) is the canonical knowledge

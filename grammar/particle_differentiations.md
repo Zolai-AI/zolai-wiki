@@ -1,4 +1,5 @@
 # Particle Differentiations & Verb Alternations
+> Last updated: 2026-09-10
 
 This document codifies the critical grammatical particles, prefixes, and alternation rules that distinguish meaning in Zolai. Sourced from *Zolai Gelhmaan Bu*, *Zolai Khanggui* (kammal zatzia section, lines 456–481), and the ZVS Bible corpus.
 

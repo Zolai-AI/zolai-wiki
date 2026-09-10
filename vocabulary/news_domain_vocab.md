@@ -1,4 +1,5 @@
 # New Vocabulary — News Domain (2026-04-15)
+> Last updated: 2026-09-10
 # Extracted from: zolai_news_20260415.md
 # Context: International news translation practice
 

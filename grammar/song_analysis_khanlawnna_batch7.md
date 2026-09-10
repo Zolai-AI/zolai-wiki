@@ -1,4 +1,5 @@
 # Khanlawnna Late — Song Analysis: Batch 7 (Songs 121–140)
+> Last updated: 2026-09-10
 
 **Source:** `/data/raw/Khanlawnna Late/`
 **ZVS 2018 Compliant:** All songs use correct orthography (pasian, gam, topa, tapa, kumpipa)

@@ -1,4 +1,5 @@
 # Zolai Loanwords — Adopted Words (Namdanglaite Zatpihna)
+> Last updated: 2026-09-10
 
 Zolai has borrowed words from multiple languages including **English, Hindi/Urdu, Burmese, and Arabic**. The ZVS 2018 standard provides rules for adapting these words to Zolai phonology.
 

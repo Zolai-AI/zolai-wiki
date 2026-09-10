@@ -1,4 +1,5 @@
 # Zo- Compound Words Glossary
+> Last updated: 2026-09-10
 > Canonical reference for all Zo- prefixed terms used in the Zolai project.
 > Sources: zogam.org, Zolai_Khanggui_AD_1899_AD_2013.md, Gentehna_Tuamtuam_le_A_Deihnate.md, resources/
 

@@ -1,4 +1,5 @@
 # Zolai Writing Rules — From Zolai Khanggui (LT Tuang, 2013)
+> Last updated: 2026-09-10
 # Source: resources/Zolai_Khanggui_AD_1899_AD_2013.md
 
 ## Critical Homograph Pairs (same spelling ≠ same meaning)

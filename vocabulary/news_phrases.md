@@ -1,4 +1,5 @@
 # Phrases & Patterns from: zolai_news_20260415.md:0-300
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

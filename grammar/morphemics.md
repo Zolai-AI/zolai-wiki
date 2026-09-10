@@ -1,4 +1,5 @@
 # Word Formation (Morphemics)
+> Last updated: 2026-09-10
 
 Zolai word formation involves complex stem shifts, suffixation, reduplication, and compound joining. This document codifies the rules found in *Zolai Gelhmaan Bu* (2010), *Zolai Sinna Bu*, and *Zolai Khanggui* (2013).
 

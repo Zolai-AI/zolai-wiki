@@ -1,4 +1,5 @@
 # Zolai Grammar: The "na" Particle
+> Last updated: 2026-09-10
 
 ## Overview
 The particle "na" has two main functions in Zolai:

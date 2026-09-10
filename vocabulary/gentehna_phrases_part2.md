@@ -1,4 +1,5 @@
 # Phrases & Patterns from: Gentehna_Tuamtuam_le_A_Deihnate.md:500-800
+> Last updated: 2026-09-10
 
 ## Phrases & Idioms
 

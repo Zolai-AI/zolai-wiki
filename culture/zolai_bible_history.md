@@ -1,4 +1,5 @@
 # Zolai Bible Translation History
+> Last updated: 2026-09-10
 
 The translation of the Bible into Zolai (Tedim) has a rich history, evolving from early colonial efforts to modern linguistic standards.
 

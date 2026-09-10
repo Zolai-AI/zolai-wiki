@@ -1,4 +1,5 @@
 # Zolai Tedim Basics
+> Last updated: 2026-09-10
 
 Pure Tedim (Zolai) foundational vocabulary for daily conversation and reading.
 

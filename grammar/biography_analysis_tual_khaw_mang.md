@@ -1,4 +1,5 @@
 # Biography Analysis: Pu Tual Khaw Mang (1935-2011)
+> Last updated: 2026-09-10
 
 ## Metadata
 

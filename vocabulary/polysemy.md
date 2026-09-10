@@ -1,4 +1,5 @@
 # Zolai Polysemy — Context-Dependent Words
+> Last updated: 2026-09-10
 
 Many Zolai words carry **multiple meanings** depending on context. This document lists 77 words with their various senses, drawn from the polysemy database.
 

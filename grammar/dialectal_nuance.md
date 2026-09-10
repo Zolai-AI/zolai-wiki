@@ -1,4 +1,5 @@
 # Dialectal Nuance: Tedim, Sizang, and Zokam
+> Last updated: 2026-09-10
 
 While **Zokam (Tedim)** is the literary and standardized form used in the **2018 ZVS**, the Zomi language family contains several distinct dialects with subtle but important differences in phonology, vocabulary, and grammar.
 

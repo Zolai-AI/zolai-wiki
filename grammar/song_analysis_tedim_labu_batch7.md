@@ -1,4 +1,5 @@
 # Tedim Labu Songs 121–140 — Analysis (Batch 7)
+> Last updated: 2026-09-10
 
 Source: `data/raw/Tedim Labu/` | ZVS 2018 orthography
 

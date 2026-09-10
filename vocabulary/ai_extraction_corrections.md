@@ -1,4 +1,5 @@
 # Corrections to AI-extracted vocabulary (khanggui_part1.md)
+> Last updated: 2026-09-10
 # Reviewed: 2026-04-15
 
 ## Confirmed Correct

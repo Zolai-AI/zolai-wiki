@@ -1,4 +1,5 @@
 # Zolai Tense Markers Reference — Corpus Verified
+> Last updated: 2026-09-10
 
 > Sources: Bible (TDB77+TBR17+Tedim2010) + master_source_v1.jsonl + wiki/grammar/*.md
 

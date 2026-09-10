@@ -1,4 +1,5 @@
 # Punctuation and Orthography (ZVS 2018 & Khanggui)
+> Last updated: 2026-09-10
 
 ## 1. Apostrophe (Pawfi / Tanglak)
 The apostrophe is a critical marker in Zolai (Tedim) Standard Format, serving omission, possession, and disambiguation roles.

@@ -1,4 +1,5 @@
 # Modern Technology & Software
+> Last updated: 2026-09-10
 
 ## Concept / Rule
 Zolai is rapidly encountering the need for modern technological terminology (Internet, Software, AI, Data). As an oral-to-written language transitioning into the digital age, it relies heavily on **Loanwords (Phonetic Adaptation)** for primary usage, while using **Compound Descriptive Nouns** primarily for explanation and tutoring.

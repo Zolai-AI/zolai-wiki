@@ -1,4 +1,5 @@
 # Grammar
+> Last updated: 2026-09-10
 
 Tedim Zolai grammar rules, patterns, and reference materials following the ZVS standard.
 
