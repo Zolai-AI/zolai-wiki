@@ -1,4 +1,5 @@
 # Zomidaily Proverbs & Wisdom Sayings
+> Last updated: 2026-09-10
 
 **Source**: data/raw/zomidaily/vocabulary/proverbs.jsonl (500 entries)
 **Date extracted**: 2026-09-10

@@ -1,4 +1,5 @@
 # Article Analysis: "Tedim Lai Siangtho Tangthu Tom"
+> Last updated: 2026-09-10
 
 ## Metadata
 

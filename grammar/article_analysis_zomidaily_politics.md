@@ -1,4 +1,5 @@
 # Article Analysis: "Gamvai leh Ki-ukna Lam (Politics)" (Political Commentary)
+> Last updated: 2026-09-10
 
 ## Metadata
 

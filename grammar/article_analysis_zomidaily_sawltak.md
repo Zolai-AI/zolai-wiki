@@ -1,4 +1,5 @@
 # Article Analysis: "Malaysia ah naupang kum 10 khat mangcip" (Sawltak/Story)
+> Last updated: 2026-09-10
 
 ## Metadata
 

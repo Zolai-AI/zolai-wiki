@@ -1,4 +1,5 @@
 # Article Analysis: "Zomi Khangno Siavuan Lasiam Mangsan tawh Holimna" (Interview)
+> Last updated: 2026-09-10
 
 ## Metadata
 

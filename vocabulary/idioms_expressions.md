@@ -1,4 +1,5 @@
 # Zolai Idiom & Expression Dictionary
+> Last updated: 2026-09-10
 
 > 55+ idiomatic expressions from Bible, zomidaily, articles, proverbs, and worship songs.
 > Format: Zolai | Literal English | Figurative English | Example | Register

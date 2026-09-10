@@ -1,4 +1,5 @@
 # Tedim Zolai — Complete Language Documentation
+> Last updated: 2026-09-10
 
 > Comprehensive reference for the Tedim Zolai language.
 > Sources: ZVS 2018, Zolai Gelhmaan Vol. 1, Zolai Khanggui, Zolai Sinna Bu, Bible corpus, zomidaily corpus, article analyses.

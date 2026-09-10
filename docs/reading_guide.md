@@ -1,4 +1,5 @@
 # Zolai Reading Comprehension Guide
+> Last updated: 2026-09-10
 
 > Practical strategies for reading Zolai (Tedim) texts: news, devotional, personal, academic.
 > All examples use correct ZVS 2018 orthography.

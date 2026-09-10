@@ -1,4 +1,5 @@
 # Comprehensive Zolai Phrasebook
+> Last updated: 2026-09-10
 
 > 500+ phrases organized by situation for daily communication in Tedim Zolai (ZVS 2018).
 > Format: Zolai | English | Situation | Formality Level

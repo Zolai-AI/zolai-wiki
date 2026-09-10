@@ -1,4 +1,5 @@
 # Tangthu Article — Vocabulary
+> Last updated: 2026-09-10
 
 > All new vocabulary from "Tedim Lai Siangtho Tangthu Tom" organized by category.
 > Source: zolai-wiki/grammar/article_analysis_tangthu.md
