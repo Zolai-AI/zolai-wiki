@@ -44,3 +44,11 @@
 - `[TDB77]` *These were the potters, and those that dwelt among plants and hedges: * → **Hihte in beelseekte hi a, Netaim khua leh Gederah khua ah a teengte ah**
 - `[TDB77]` *Beerah his son, whom Tilgath–pilneser king of Assyria carried away cap* → **a tapa Be-erah hi a, Assiria kumpipa Tilgath-pilneser in amau’ minam m**
 
+
+---
+
+## See Also
+
+- [tense_markers.md](tense_markers.md) — Complete tense, aspect & mood reference
+- [verbs_corpus.md](verbs_corpus.md) — Verb forms from Bible corpus
+- [MASTER_GRAMMAR_REFERENCE.md](../../context/MASTER_GRAMMAR_REFERENCE.md) — Full grammar reference

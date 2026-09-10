@@ -114,3 +114,11 @@
 | Have you ever seen it? | `Na mu ngei hiam?` | `ngei` = ever/before |
 | Did you not go? | `Na pai kei hiam?` | negated past |
 | Have you already eaten? | `An na ne khin hiam?` | `khin` = completed |
+
+---
+
+## See Also
+
+- [questions_corpus.md](questions_corpus.md) — Corpus-verified question word examples from Bible
+- [rhetorical_questions.md](rhetorical_questions.md) — Rhetorical vs genuine questions (`diam` vs `hiam`)
+- [MASTER_GRAMMAR_REFERENCE.md](../../context/MASTER_GRAMMAR_REFERENCE.md) — Full grammar reference
