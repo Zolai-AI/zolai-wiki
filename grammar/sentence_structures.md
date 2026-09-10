@@ -383,3 +383,11 @@ The most emphatic identity statement in Zolai uses full pronoun + `ka hi hi`:
 - `Keimah in na thei hi.` — You yourself know it.
 
 Pattern: **[Emphatic pronoun] + [agreement marker] + hi hi**
+
+---
+
+## See Also
+
+- [sentence_patterns_complete.md](sentence_patterns_complete.md) — Corpus pattern frequency analysis (Bible vs Zomidaily)
+- [bible_grammar_patterns.md](bible_grammar_patterns.md) — Grammar patterns from Bible corpus
+- [MASTER_GRAMMAR_REFERENCE.md](../../context/MASTER_GRAMMAR_REFERENCE.md) — Full grammar reference
