@@ -24,7 +24,7 @@ This document provides a comprehensive phonological analysis of Zolai (Tedim), i
 | **n** | /n/ | `ni` (day), `ne` (eat) | Voiced alveolar nasal |
 | **p** | /p/ | `pa` (father), `pai` (go) | Voiceless bilabial stop |
 | **s** | /s/ | `sih` (die), `sua` (holy) | Voiceless alveolar fricative |
-| **t** | /t/ | `tui` (water), `ta` (past) | Voiceless alveolar stop |
+| **t** | /t/ | `tui` (water), `ta` (completive/realized) | Voiceless alveolar stop |
 | **v** | /v/ | `van` (sky), `va` (come) | Voiced labiodental fricative |
 | **z** | /z/ | `zo` (completive), `zing` (morning) | Voiced alveolar fricative |
 

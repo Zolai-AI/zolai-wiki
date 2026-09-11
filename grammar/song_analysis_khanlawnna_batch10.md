@@ -1056,7 +1056,7 @@ Ka ta nong ci den, Nong sam lailai hi...
 - Ergative constructions (15% of songs)
 - Negation patterns: `kei` (standard), `lo` (literary)
 - Question markers: `hiam` (yes/no), `bang hang` (content)
-- Tense markers: `hi` (present), `ta` (past), `ding` (future)
+- Tense markers: `hi` (present), `ta` (completive/realized), `ding` (future)
 - Honorific prefixes: `kon-`, `ho-`, `ki-`
 - Compound verb structures: directional + stem + aspect
 
