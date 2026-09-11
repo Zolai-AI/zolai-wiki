@@ -17,14 +17,14 @@
 | 1 | in | ! (imperative) | 35,664 | 366,065 | 401,729 | particle |
 | 2 | hi | . (declarative particle) | 44,697 | 348,526 | 393,223 | particle |
 | 3 | ding | will (future) | 17,754 | 132,214 | 149,968 | particle |
-| 4 | leh | return to, reciprocate, with | 16,379 | 128,474 | 144,853 | particle |
+| 4 | leh | and (conjunction); with (comitative) | 16,379 | 128,474 | 144,853 | particle |
 | 5 | ah | in / at / to (Locative) | 1,755 | 125,470 | 127,225 | particle |
 | 6 | uh | they (3rd plural marker) | 21,992 | 100,385 | 122,377 | particle |
-| 7 | na | new, fresh | 17,080 | 91,332 | 108,412 | particle |
+| 7 | na | possessive particle (your/my); with (comitative) | 17,080 | 91,332 | 108,412 | particle |
 | 8 | hong | toward speaker (come here) | 12,450 | 93,522 | 105,972 | particle |
 | 9 | te | plural marker | 18 | 94,713 | 94,731 | particle |
 | 10 | pen | optimum | 1,594 | 86,994 | 88,588 | particle |
-| 11 | tawh | key, free-hand | 8,312 | 78,184 | 86,496 | particle |
+| 11 | tawh | with (comitative); key; free-hand | 8,312 | 78,184 | 86,496 | particle |
 | 12 | ka | I (agreement marker, 1st sg) | 13,099 | 58,344 | 71,443 | particle |
 | 13 | tua | that, those (demonstrative pronoun) | 12,299 | 56,592 | 68,891 | noun |
 | 14 | khat | one | 5,055 | 59,228 | 64,283 | noun |
@@ -1035,13 +1035,13 @@
 | 2 | in | ! (imperative) | 35,664 |
 | 3 | uh | they (3rd plural marker) | 21,992 |
 | 4 | ding | will (future) | 17,754 |
-| 5 | na | new, fresh | 17,080 |
-| 6 | leh | return to, reciprocate, with | 16,379 |
+| 5 | na | possessive particle (your/my); with (comitative) | 17,080 |
+| 6 | leh | and (conjunction); with (comitative) | 16,379 |
 | 7 | ka | I (agreement marker, 1st sg) | 13,099 |
 | 8 | hong | toward speaker (come here) | 12,450 |
 | 9 | tua | that, those (demonstrative pronoun) | 12,299 |
 | 10 | ciangin | then, at that time | 10,554 |
-| 11 | tawh | key, free-hand | 8,312 |
+| 11 | tawh | with (comitative); key; free-hand | 8,312 |
 | 12 | ahi | dehorn | 7,887 |
 | 13 | kei | I (pronoun, subject) | 7,208 |
 | 14 | amah | he/she/it (3rd singular) | 6,567 |
@@ -1091,14 +1091,14 @@
 | 1 | in | ! (imperative) | 366,065 |
 | 2 | hi | . (declarative particle) | 348,526 |
 | 3 | ding | will (future) | 132,214 |
-| 4 | leh | return to, reciprocate, with | 128,474 |
+| 4 | leh | and (conjunction); with (comitative) | 128,474 |
 | 5 | ah | in / at / to (Locative) | 125,470 |
 | 6 | uh | they (3rd plural marker) | 100,385 |
 | 7 | te | plural marker | 94,713 |
 | 8 | hong | toward speaker (come here) | 93,522 |
-| 9 | na | new, fresh | 91,332 |
+| 9 | na | possessive particle (your/my); with (comitative) | 91,332 |
 | 10 | pen | optimum | 86,994 |
-| 11 | tawh | key, free-hand | 78,184 |
+| 11 | tawh | with (comitative); key; free-hand | 78,184 |
 | 12 | khat | one | 59,228 |
 | 13 | ka | I (agreement marker, 1st sg) | 58,344 |
 | 14 | zong | also, even | 57,620 |
