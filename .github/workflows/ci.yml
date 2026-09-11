@@ -1,0 +1,119 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  zvs-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ZVS 2018 forbidden form check
+        run: |
+          echo "=== ZVS 2018 Forbidden Form Check ==="
+          FORBIDDEN_WORDS=("pathian" "ram" "fapa" "bawipa" "siangpahrang" "cu" "cun")
+          FOUND=0
+
+          for word in "${FORBIDDEN_WORDS[@]}"; do
+            # Search all .md files for the forbidden word (case-insensitive)
+            MATCHES=$(grep -rli "\b${word}\b" --include="*.md" . 2>/dev/null || true)
+            if [ -n "$MATCHES" ]; then
+              echo "VIOLATION: Found forbidden form '${word}' in:"
+              echo "$MATCHES"
+              FOUND=$((FOUND + 1))
+            fi
+          done
+
+          if [ "$FOUND" -gt 0 ]; then
+            echo ""
+            echo "FAILED: $FOUND forbidden form(s) found."
+            echo "See ZVS 2018: pathian→pasian, ram→gam, fapa→tapa, bawipa→topa, siangpahrang→kumpipa, cu/cun→tua"
+            exit 1
+          fi
+
+          echo "PASSED: No ZVS 2018 forbidden forms found."
+
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      - name: Run markdownlint
+        run: |
+          echo "=== Markdown Lint Check ==="
+          # Lint all markdown files, ignore node_modules and archive
+          markdownlint --config .markdownlint.json '**/*.md' --ignore 'node_modules' --ignore 'archive' --ignore '.git' || {
+            echo "Markdown lint issues found. See above for details."
+            exit 1
+          }
+          echo "PASSED: All markdown files pass lint."
+
+  markdown-syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate markdown syntax
+        run: |
+          echo "=== Markdown Syntax Validation ==="
+          ERRORS=0
+
+          # Check for broken headers (empty headers)
+          echo "Checking for empty headers..."
+          EMPTY_HEADERS=$(grep -rn "^#\+\s*$" --include="*.md" . 2>/dev/null || true)
+          if [ -n "$EMPTY_HEADERS" ]; then
+            echo "Empty headers found:"
+            echo "$EMPTY_HEADERS"
+            ERRORS=$((ERRORS + 1))
+          fi
+
+          # Check for broken code blocks (unclosed)
+          echo "Checking for unclosed code blocks..."
+          for file in $(find . -name "*.md" -not -path "./.git/*" -not -path "./archive/*"); do
+            OPEN=$(grep -c '```' "$file" 2>/dev/null || echo "0")
+            if [ $((OPEN % 2)) -ne 0 ]; then
+              echo "Unclosed code block in: $file"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+
+          # Check for duplicate headers in same file
+          echo "Checking for duplicate headers..."
+          for file in $(find . -name "*.md" -not -path "./.git/*" -not -path "./archive/*" -type f); do
+            DUPS=$(grep -h "^#" "$file" 2>/dev/null | sort | uniq -d)
+            if [ -n "$DUPS" ]; then
+              echo "Duplicate headers in $file:"
+              echo "$DUPS"
+              ERRORS=$((ERRORS + 1))
+            fi
+          done
+
+          if [ "$ERRORS" -gt 0 ]; then
+            echo ""
+            echo "FAILED: $ERRORS syntax issue(s) found."
+            exit 1
+          fi
+
+          echo "PASSED: Markdown syntax is valid."
