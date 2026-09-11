@@ -163,7 +163,7 @@ These go before the verb and mark the person of the subject:
 | `na` | 2nd singular | `Na pai hi.` — You go. |
 | `a` | 3rd singular | `A pai hi.` — He/she goes. |
 | `i` | 1st plural | `I pai hi.` — We go. |
-| `uh` | 3rd plural | `Uh pai hi.` — They go. |
+| `uh` | 3rd plural | `Amaute pai hi.` — They go. |
 
 ### Standalone Pronouns (for emphasis)
 These are used when you want to emphasize the subject:

@@ -22,7 +22,7 @@
 **Context:** Used here to refer to the children/descendants of a person (Ahimoth, Merari). It seems broader than just 'sons'.
 **Example:** Ahimoth’ suante in:
 
-### uh = they/them (plural marker)
+### hihte/amaute/huate = they/them (plural marker)
 **Context:** A plural marker often attached to verbs or used as a pronoun suffix, seen here in 'ahi-te hi'.
 **Example:** ahi-te hi.
 
