@@ -584,3 +584,21 @@ Based on *Zolai Sinna Bu*:
 - `zolai-wiki/vocabulary/zomidaily_vocabulary.md` — Modern vocabulary (208K unique words)
 - `data/bible/language_learning/zvs_rules.json` — ZVS 2018 rules
 - `data/reference/grammar/Zolai_Grammar_Vol1.md` — Derivational morphology
+
+
+### Work Nouns: nasep vs kammal
+
+| Noun | Meaning | Bible Reference |
+|------|---------|-----------------|
+| nasep | work/service | 1CH 6:31-33 |
+| kammal | deed/action/commandment | 1CH 16:15 |
+
+**Note:** The work is done = Nasep a mankhin ta hi (NOT kammal a bawl ta hi)
+
+
+### Tree vs Wood
+
+| Noun | Meaning |
+|------|----------|
+| sing | wood (material) |
+| singkung | tree (living plant) |

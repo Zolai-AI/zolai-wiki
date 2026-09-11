@@ -231,3 +231,18 @@
 - Bible corpus (TDB77/ZVS)
 - Zolai Grammar Vol. 1
 - ZVS 2018 Standard
+
+
+### Eating Verbs: ne vs nek
+
+- **ne** = general eating/drinking (Na ne hiam? = Do you eat?)
+- **nek** = specific/conditional eating (Hi na nek leh = If you eat that)
+- Bible: 1CH 12:39 "an ne tui dawnin" = eating and drinking
+- Bible: 1CO 8:4 "milim biakna sa nekna" = eating of meat offered to idols
+
+
+### Work Nouns: nasep vs kammal
+
+- **nasep** = work/service (1CH 6:31-33)
+- **kammal** = deed/action/commandment (1CH 16:15)
+- The work is done = Nasep a mankhin ta hi (NOT kammal a bawl ta hi)
