@@ -138,7 +138,7 @@ Verse 3: Kuan meng un, Topa' sawltak te, Anvui te kuai zo ta hi; An kaikhawm khi
 | min | v | become |
 | khin | exp | (experiential) |
 | zo | comp | (completed) |
-| ta | past | (past) |
+| ta | completive/realized | (completed) |
 
 **New vocab:** nai (harvest/grain), gamla (field), lo (not), anvui (harvesters/workers), zasak (sow), kuan (send forth), khawm (gather), kaikhawm (gather together)
 **Themes:** Harvest is plentiful, workers needed, call to service, sending laborers into the field

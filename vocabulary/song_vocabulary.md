@@ -132,7 +132,7 @@ This reference catalogues vocabulary found in Zolai worship song lyrics, organiz
 | 74 | `lut` | into | — | `Lut ta hi.` (He entered.) |
 | 75 | `ki` | reciprocal | — | `Ki kip ta hi.` (They gathered.) |
 | 76 | `tawm` | death/ending | — | `Tawm ta hi.` (He died.) |
-| 77 | `ta` | past tense | — | `Pai ta hi.` (He went.) |
+| 77 | `ta` | completive/realized aspect | — | `Pai ta hi.` (He went.) |
 | 78 | `hi` | declarative | — | `Pai hi.` (He goes.) |
 | 79 | `ding` | future | — | `Pai ding hi.` (He will go.) |
 | 80 | `zo` | completive | — | `Pai zo hi.` (He finished going.) |

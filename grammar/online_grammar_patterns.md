@@ -175,7 +175,7 @@ Modern Zolai creates compound verbs by combining base verbs with prefixes/suffix
 |--------|----------|---------|-------------|
 | cih | quotative | "hawmkhia ding cih thu" | the matter that will publish |
 | ci | quotative (short) | "ciangun" | when saying |
-| ci-a | quotative (past) | "gen ci-a" | having said |
+| ci-a | quotative (completed) | "gen ci-a" | having said |
 
 ### Possessive Patterns (Modern Usage)
 | Pattern | Function | Example | Translation |

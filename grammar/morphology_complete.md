@@ -79,7 +79,7 @@ Aspect markers follow the verb root (and any directional prefix) to indicate tem
 
 | Suffix | Aspect | Example | Meaning |
 |--------|--------|---------|---------|
-| `-ta` / `ta` | past | `pai ta hi` | went |
+| `-ta` / `ta` | completive/realized | `pai ta hi` | went |
 | `-ding` / `ding` | future | `pai ding hi` | will go |
 | `-zo` / `zo` | completive | `pai zo hi` | finished going |
 | `-lai` / `lai` | progressive | `ne lai hi` | is eating |
