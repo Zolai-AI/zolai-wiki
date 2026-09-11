@@ -9,7 +9,7 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 |-------|--------|---------|-------------|
 | **Present** | **hi** | `A pai hi.` | He goes. / He is going. |
 | **Present Continuous** | **laitak** | `A pai laitak hi.` | He is going (right now). |
-| **Past Simple** | **ta** | `A pai ta hi.` | He went. / He has gone. |
+| **Completive/Realized** | **ta** | Action completed or realized | `A pai ta hi.` — He has gone (completed). `Na dam ta in.` — Be healed (now). |
 | **Present Perfect** | **khinzo** | `A pai khinzo hi.` | He has already gone. |
 | **Past Perfect** | **khinsa** | `A pai khinsa hi.` | He had gone. |
 | **Future** | **ding** | `A pai ding hi.` | He will go. |
@@ -66,7 +66,7 @@ A pai khinzo hi.
 |--------|--------|---------|---------|
 | **Completive** | **zo** | Action fully finished | `A pai zo hi.` — He has finished going. |
 | **Experiential** | **khin** | Has done at least once | `Ka mu khin hi.` — I have seen [it before]. |
-| **Inceptive** | **ta** | Change of state / new situation | `A hoih ta hi.` — It has become good (now). |
+| **Completive/Realized** | **ta** | Action completed or realized in the moment | `A hoih ta hi.` — It is enough/completed (now). `Na dam ta in.` — Be healed (now). `A bawl ta hi.` — It is done/made. |
 | **Habitual** | **den** | Keeps doing repeatedly | `Nasem den hi.` — He keeps working. |
 | **Progressive** | **lai** | In the middle of | `A ne lai hi.` — He is eating. |
 | **Immediate** | **laitak** | Right at this moment | `Ka pai laitak hi.` — I am going right now. |
