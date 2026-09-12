@@ -1,5 +1,7 @@
 # Zolai AI Wiki — Second Brain Knowledge Base
 
+<p align="center"><img src="logo.png" alt="Zolai AI" width="120"></p>
+
 > **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect
 > The central knowledge repository for the **Zolai Second Brain** project — linguistic rules, grammar, vocabulary, culture, curriculum, and training strategy for the Tedim Zolai language.
 > **Author:** Peter Pau Sian Lian ([@peterpausianlian](https://huggingface.co/peterpausianlian))
