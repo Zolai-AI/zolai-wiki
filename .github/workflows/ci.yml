@@ -12,55 +12,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: ZVS 2018 forbidden form check
+      - name: ZVS 2018 forbidden form check (advisory)
         run: |
-          echo "=== ZVS 2018 Forbidden Form Check ==="
-          # Short tokens cu/cun/ram collide with English (curriculum, RAM, etc.).
-          # Orthography guides intentionally mention legacy→ZVS mappings — exclude them.
-          FORBIDDEN_WORDS=("pathian" "fapa" "bawipa" "siangpahrang")
+          echo "=== ZVS 2018 Forbidden Form Check (advisory) ==="
+          # Short tokens cu/cun/ram collide with English; docs/ teach legacy→ZVS maps.
+          # Report only — content migration is tracked separately.
+          FORBIDDEN_WORDS="pathian fapa bawipa siangpahrang"
           FOUND=0
-          EXCLUDES=(
-            --exclude-dir=.git
-            --exclude-dir=node_modules
-            --exclude-dir=archive
-            --exclude=README.md
-            --exclude-dir=docs
-          )
-
-          for word in "${FORBIDDEN_WORDS[@]}"; do
-            MATCHES=$(grep -rli "\b${word}\b" --include="*.md" "${EXCLUDES[@]}" . 2>/dev/null || true)
-            # Allow lines that only document the mapping (contain → or "forbidden")
-            FILTERED=""
+          for word in $FORBIDDEN_WORDS; do
+            MATCHES=$(grep -rli --include='*.md' --exclude-dir=.git --exclude-dir=node_modules --exclude-dir=archive --exclude-dir=docs --exclude=README.md "\b${word}\b" . 2>/dev/null || true)
             if [ -n "$MATCHES" ]; then
-              while IFS= read -r f; do
-                [ -z "$f" ] && continue
-                if grep -ni "\b${word}\b" "$f" | grep -viE '(→|->|forbidden|legacy|ZVS 2018|orthograph)' >/dev/null; then
-                  FILTERED="${FILTERED}${f}"$'
-'
-                fi
-              done <<< "$MATCHES"
-            fi
-            if [ -n "$FILTERED" ]; then
-              echo "VIOLATION: Found forbidden form '${word}' (non-meta usage) in:"
-              echo "$FILTERED"
+              echo "NOTE: '${word}' still appears in:"
+              echo "$MATCHES" | head -20
               FOUND=$((FOUND + 1))
             fi
           done
-
-          if [ "$FOUND" -gt 0 ]; then
-            echo ""
-            echo "WARN: $FOUND forbidden form cluster(s) still present in legacy analyses/vocab."
-            echo "See ZVS 2018: pathian→pasian, ram→gam, fapa→tapa, bawipa→topa, siangpahrang→kumpipa, cu/cun→tua"
-            echo "Non-blocking until content migration completes; docs/ guides remain the orthography SoT."
-            exit 0
-          fi
-
-          echo "PASSED: No ZVS 2018 forbidden forms found (content scan)."
+          echo "Advisory summary: $FOUND form cluster(s) still present in legacy content."
+          exit 0
 
   markdown-lint:
     runs-on: ubuntu-latest
