@@ -68,8 +68,7 @@ zolai/          — Core Python package
 **Rules:**
 - Never commit raw data files > 10MB to git
 - Always log wiki changes in `wiki/planning/CHANGELOG.md`
-- All generated Zolai must pass ZVS: no `pasian`, `gam`, `tapa`, `topa`, `tua`, `tuan`
-- Run `zolai audit-jsonl -i <file>` before committing new datasets
+- All generated Zolai must pass ZVS 2018: use `pasian`, `gam`, `tapa`, `topa`, `kumpipa`, `tua`; never `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun` (and similar Hakha/legacy forms). Word order: SOV. Run `zolai audit-jsonl -i <file>` before committing new datasets
 
 ---
 
