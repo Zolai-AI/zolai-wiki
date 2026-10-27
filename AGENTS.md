@@ -52,3 +52,8 @@ manifest version, RAG feed). See `README.md` > Connect.
 
 - Secrets come only from env/`.env`; `.env.example` has placeholders only.
 - Never hardcode API keys, HF tokens, or provider keys in code/docs/wiki/scripts.
+
+## Secret Hygiene (repo-specific)
+
+- Wiki markdown is published content: API examples and snippets use placeholders (`${VAR}`) only, never values.
+- Canonical rules: workspace-root `AGENTS.md` § Secret Hygiene. Full procedure: `../context/code-standards.md` § Secret Hygiene — Prevention. Staged-change scan gate: `secret-scan` subagent; checklist: `secret-hygiene` skill. Do not duplicate that block here.
