@@ -73,7 +73,7 @@ All content derived from:
 - **zolai-core**: Python toolkit + RAG brain
 - **zolai-web**: Learner platform (Next.js)
 - **zolai-datasets**: Corpora & datasets
-- **zolai-mcp-server**: MCP for ChatGPT/Gemini/Claude
+- **MCP server**: native route in **zolai-core** — https://mcp.zolai.space/mcp (`zolai-mcp-server` is the legacy Worker)
 - **zolai-landing**: https://zolai.space
 
 ## License
